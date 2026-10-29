@@ -1,0 +1,40 @@
+{
+  "_id": "x1kvggRG1WupZvxn",
+  "_key": "!items!x1kvggRG1WupZvxn",
+  "name": "Союзники (Allies)",
+  "type": "feature",
+  "img": "systems/wod5e/assets/icons/items/feature.svg",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Стоимость:</strong> •–•••••</p><p>Смертные, готовые помочь вампиру. Сила (эффективность) и надёжность распределяются между точками.</p>",
+    "points": 1,
+    "featuretype": "background",
+    "uses": {
+      "current": 0,
+      "max": 0,
+      "enabled": false
+    }
+  },
+  "effects": [],
+  "folder": "l4pSrpgyltjSodt3",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "feature-allies"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

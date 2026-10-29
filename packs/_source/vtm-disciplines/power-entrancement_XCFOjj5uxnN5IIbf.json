@@ -1,0 +1,45 @@
+{
+  "_id": "XCFOjj5uxnN5IIbf",
+  "_key": "!items!XCFOjj5uxnN5IIbf",
+  "name": "Очарование (Entrancement)",
+  "type": "power",
+  "img": "systems/wod5e/assets/icons/items/discipline.png",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Дисциплина:</strong> Величие •••</p><p><strong>Стоимость:</strong> 1 проверка пробуждения</p><p><strong>Бросок:</strong> Харизма + Величие</p><p><strong>Сопротивление:</strong> Самообладание + Хитрость</p><p><strong>Длительность:</strong> Одна сцена или дольше</p><p>Цель становится восторженным поклонником вампира и охотно выполняет его просьбы.</p>",
+    "level": 3,
+    "cost": 1,
+    "discipline": "presence",
+    "selected": false,
+    "dicepool": {
+      "udM3dJwh": {
+        "path": "attributes.charisma"
+      },
+      "LzH0IbT9": {
+        "path": "disciplines.presence"
+      }
+    }
+  },
+  "effects": [],
+  "folder": "r9Ufy21BQzVnYCIq",
+  "sort": 304,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "power-entrancement"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

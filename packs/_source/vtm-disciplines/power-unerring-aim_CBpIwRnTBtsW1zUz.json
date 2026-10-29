@@ -1,0 +1,38 @@
+{
+  "_id": "CBpIwRnTBtsW1zUz",
+  "_key": "!items!CBpIwRnTBtsW1zUz",
+  "name": "Безупречный прицел (Unerring Aim)",
+  "type": "power",
+  "img": "systems/wod5e/assets/icons/items/discipline.png",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Дисциплина:</strong> Стремительность ••••</p><p><strong>Амальгама:</strong> Ясновидение 2</p><p><strong>Стоимость:</strong> 1 проверка пробуждения</p><p><strong>Длительность:</strong> Одна атака</p><p>Для вампира мир замирает: одна дистанционная атака совершается против сложности 1 (защита — только сверхъестественная).</p>",
+    "level": 4,
+    "cost": 1,
+    "discipline": "celerity",
+    "selected": false,
+    "dicepool": {}
+  },
+  "effects": [],
+  "folder": "rAdaOaGWwVkUhfiQ",
+  "sort": 406,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "power-unerring-aim"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "_id": "DAV6y0hhy6XF6raK",
+  "_key": "!items!DAV6y0hhy6XF6raK",
+  "name": "Звериный шёпот (Feral Whispers)",
+  "type": "power",
+  "img": "systems/wod5e/assets/icons/items/discipline.png",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Дисциплина:</strong> Анимализм ••</p><p><strong>Стоимость:</strong> 1 проверка пробуждения</p><p><strong>Бросок:</strong> Манипулирование + Анимализм</p><p><strong>Длительность:</strong> Одна сцена</p><p>Двусторонняя связь с животными: вампир понимает их и может просить об услугах или призывать животных определённого вида. Для фамулуса проверка не нужна.</p>",
+    "level": 2,
+    "cost": 1,
+    "discipline": "animalism",
+    "selected": false,
+    "dicepool": {
+      "iPpQZuzP": {
+        "path": "attributes.manipulation"
+      },
+      "FL24sOr9": {
+        "path": "disciplines.animalism"
+      }
+    }
+  },
+  "effects": [],
+  "folder": "5GOc3I8pslY8Tvfa",
+  "sort": 202,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "power-feral-whispers"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

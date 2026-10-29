@@ -1,0 +1,38 @@
+{
+  "_id": "EHXyufSAILqwPHez",
+  "_key": "!items!EHXyufSAILqwPHez",
+  "name": "Стигийский покров (Stygian Shroud)",
+  "type": "power",
+  "img": "systems/wod5e/assets/icons/items/discipline.png",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Players Guide",
+      "page": ""
+    },
+    "description": "<p><strong>Дисциплина:</strong> Обливион ••••</p><p><strong>Стоимость:</strong> 1 проверка пробуждения</p><p><strong>Длительность:</strong> Одна сцена</p><p>Облако абсолютной тьмы гасит свет и звук в большом пространстве.</p>",
+    "level": 4,
+    "cost": 1,
+    "discipline": "oblivion",
+    "selected": false,
+    "dicepool": {}
+  },
+  "effects": [],
+  "folder": "N7H7uFo7zMEkfpob",
+  "sort": 410,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "power-stygian-shroud"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

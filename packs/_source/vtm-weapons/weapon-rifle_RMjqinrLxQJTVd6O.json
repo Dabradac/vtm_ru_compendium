@@ -1,0 +1,49 @@
+{
+  "_id": "RMjqinrLxQJTVd6O",
+  "_key": "!items!RMjqinrLxQJTVd6O",
+  "name": "Винтовка (Rifle)",
+  "type": "weapon",
+  "img": "icons/svg/sword.svg",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Модификатор урона:</strong> +4</p><p><strong>Бросок:</strong> Ловкость + Стрельба</p><p>Дальнобойное оружие.</p>",
+    "weaponType": "ranged",
+    "weaponvalue": 4,
+    "quantity": 1,
+    "uses": {
+      "current": 0,
+      "max": 0,
+      "enabled": false
+    },
+    "dicepool": {
+      "DbYrwpJf": {
+        "path": "attributes.dexterity"
+      },
+      "pOgyYVbw": {
+        "path": "skills.firearms"
+      }
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 8,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "weapon-rifle"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

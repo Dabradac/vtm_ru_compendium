@@ -1,0 +1,40 @@
+{
+  "_id": "LStIU70uvQNavi8E",
+  "_key": "!items!LStIU70uvQNavi8E",
+  "name": "Противник (Adversary)",
+  "type": "feature",
+  "img": "systems/wod5e/assets/icons/items/feature.svg",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Стоимость:</strong> •–•••••</p><p>Сородич, который враждует с персонажем.</p>",
+    "points": 1,
+    "featuretype": "flaw",
+    "uses": {
+      "current": 0,
+      "max": 0,
+      "enabled": false
+    }
+  },
+  "effects": [],
+  "folder": "mPeI2mrESWUMj1ZZ",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "feature-adversary"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

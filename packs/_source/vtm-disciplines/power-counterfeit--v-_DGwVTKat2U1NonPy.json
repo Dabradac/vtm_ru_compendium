@@ -1,0 +1,38 @@
+{
+  "_id": "DGwVTKat2U1NonPy",
+  "_key": "!items!DGwVTKat2U1NonPy",
+  "name": "Подделка (V) (Counterfeit (V))",
+  "type": "power",
+  "img": "systems/wod5e/assets/icons/items/discipline.png",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Дисциплина:</strong> Алхимия слабокровных •••••</p><p><strong>Стоимость:</strong> 1 проверка пробуждения</p><p><strong>Длительность:</strong> Как у копируемой силы</p><p>Воспроизводит силу другой дисциплины 3-го уровня.</p>",
+    "level": 5,
+    "cost": 1,
+    "discipline": "alchemy",
+    "selected": false,
+    "dicepool": {}
+  },
+  "effects": [],
+  "folder": "F4BpBMLfHl6w6WGc",
+  "sort": 509,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "power-counterfeit-(v)"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

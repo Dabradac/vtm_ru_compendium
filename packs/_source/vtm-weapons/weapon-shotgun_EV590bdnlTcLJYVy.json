@@ -1,0 +1,49 @@
+{
+  "_id": "EV590bdnlTcLJYVy",
+  "_key": "!items!EV590bdnlTcLJYVy",
+  "name": "Дробовик (Shotgun)",
+  "type": "weapon",
+  "img": "icons/svg/sword.svg",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Модификатор урона:</strong> +4</p><p><strong>Бросок:</strong> Ловкость + Стрельба</p><p>Опасен на близкой дистанции.</p>",
+    "weaponType": "ranged",
+    "weaponvalue": 4,
+    "quantity": 1,
+    "uses": {
+      "current": 0,
+      "max": 0,
+      "enabled": false
+    },
+    "dicepool": {
+      "1At1LCC1": {
+        "path": "attributes.dexterity"
+      },
+      "bNpuIK7z": {
+        "path": "skills.firearms"
+      }
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 9,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "weapon-shotgun"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

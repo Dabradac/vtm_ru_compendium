@@ -1,0 +1,40 @@
+{
+  "_id": "5faVLTWJ3iLeT5id",
+  "_key": "!items!5faVLTWJ3iLeT5id",
+  "name": "Зависимость (Addiction)",
+  "type": "feature",
+  "img": "systems/wod5e/assets/icons/items/feature.svg",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Стоимость:</strong> •</p><p>−1 к броскам, если в последнюю ночь вампир не пил кровь под нужным веществом.</p>",
+    "points": 1,
+    "featuretype": "flaw",
+    "uses": {
+      "current": 0,
+      "max": 0,
+      "enabled": false
+    }
+  },
+  "effects": [],
+  "folder": "rNo7PZAkD7se9lor",
+  "sort": 13,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "feature-addiction"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

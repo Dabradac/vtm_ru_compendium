@@ -1,0 +1,45 @@
+{
+  "_id": "UvEwjkXfdgrxr9Ct",
+  "_key": "!items!UvEwjkXfdgrxr9Ct",
+  "name": "Сотрясение земли (Earthshock)",
+  "type": "power",
+  "img": "systems/wod5e/assets/icons/items/discipline.png",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Дисциплина:</strong> Мощь •••••</p><p><strong>Стоимость:</strong> 2 проверки пробуждения</p><p><strong>Бросок:</strong> Сила + Драка</p><p><strong>Длительность:</strong> Одна атака</p><p>Удар по земле сбивает с ног всех вокруг вампира.</p>",
+    "level": 5,
+    "cost": 2,
+    "discipline": "potence",
+    "selected": false,
+    "dicepool": {
+      "seMSnJdP": {
+        "path": "attributes.strength"
+      },
+      "q0lQPumC": {
+        "path": "skills.brawl"
+      }
+    }
+  },
+  "effects": [],
+  "folder": "K5eVbbyFUEmsNJGC",
+  "sort": 507,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "power-earthshock"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

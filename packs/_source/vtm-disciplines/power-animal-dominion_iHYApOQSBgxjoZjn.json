@@ -1,0 +1,45 @@
+{
+  "_id": "iHYApOQSBgxjoZjn",
+  "_key": "!items!iHYApOQSBgxjoZjn",
+  "name": "Власть над зверями (Animal Dominion)",
+  "type": "power",
+  "img": "systems/wod5e/assets/icons/items/discipline.png",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Дисциплина:</strong> Анимализм •••••</p><p><strong>Стоимость:</strong> 2 проверки пробуждения</p><p><strong>Бросок:</strong> Харизма + Анимализм</p><p><strong>Длительность:</strong> Одна сцена</p><p>Вампир командует целыми стаями и роями животных, отдавая сложные приказы.</p>",
+    "level": 5,
+    "cost": 2,
+    "discipline": "animalism",
+    "selected": false,
+    "dicepool": {
+      "Lavez0dR": {
+        "path": "attributes.charisma"
+      },
+      "Zze7OvpY": {
+        "path": "disciplines.animalism"
+      }
+    }
+  },
+  "effects": [],
+  "folder": "5GOc3I8pslY8Tvfa",
+  "sort": 507,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "power-animal-dominion"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

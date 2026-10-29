@@ -1,0 +1,45 @@
+{
+  "_id": "MqThmzOj64eAqdfg",
+  "_key": "!items!MqThmzOj64eAqdfg",
+  "name": "Призыв духа (Summon Spirit)",
+  "type": "power",
+  "img": "systems/wod5e/assets/icons/items/discipline.png",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Players Guide / Cults of the Blood Gods",
+      "page": ""
+    },
+    "description": "<p><strong>Дисциплина:</strong> Церемонии •</p><p><strong>Стоимость:</strong> 1 проверка пробуждения</p><p><strong>Бросок:</strong> Решимость + Обливион</p><p><strong>Длительность:</strong> Одна сцена</p><p>Некромант призывает конкретного призрака, чьё имя и оковы ему известны.</p>",
+    "level": 1,
+    "cost": 1,
+    "discipline": "ceremonies",
+    "selected": false,
+    "dicepool": {
+      "aJok6dVp": {
+        "path": "attributes.resolve"
+      },
+      "geRl3V9h": {
+        "path": "disciplines.oblivion"
+      }
+    }
+  },
+  "effects": [],
+  "folder": "Gzm3hNZUrX4HvrsO",
+  "sort": 101,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "power-summon-spirit"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

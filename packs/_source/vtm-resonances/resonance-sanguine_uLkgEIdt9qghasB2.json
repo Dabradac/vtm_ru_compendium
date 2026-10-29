@@ -1,0 +1,33 @@
+{
+  "_id": "uLkgEIdt9qghasB2",
+  "_key": "!items!uLkgEIdt9qghasB2",
+  "name": "Сангвиническая (Sanguine)",
+  "type": "resonance",
+  "img": "icons/svg/blood.svg",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Усиливает дисциплины:</strong> Кровавое чародейство, Величие</p><p>Радость, похоть, возбуждение, влюблённость. Источники: влюблённые, тусовщики, наркоманы на эйфории.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 3,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "resonance-sanguine"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

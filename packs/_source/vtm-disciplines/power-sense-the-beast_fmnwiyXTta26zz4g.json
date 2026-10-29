@@ -1,0 +1,45 @@
+{
+  "_id": "fmnwiyXTta26zz4g",
+  "_key": "!items!fmnwiyXTta26zz4g",
+  "name": "Чуять Зверя (Sense the Beast)",
+  "type": "power",
+  "img": "systems/wod5e/assets/icons/items/discipline.png",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Дисциплина:</strong> Анимализм •</p><p><strong>Стоимость:</strong> Бесплатно</p><p><strong>Бросок:</strong> Решимость + Анимализм</p><p><strong>Сопротивление:</strong> Самообладание + Хитрость</p><p><strong>Длительность:</strong> Пассивно</p><p>Вампир ощущает Зверя в других: распознаёт сородичей, вурдалаков и сверхъестественных существ, а также чувствует враждебные намерения и голод.</p>",
+    "level": 1,
+    "cost": 0,
+    "discipline": "animalism",
+    "selected": false,
+    "dicepool": {
+      "MK63pcQl": {
+        "path": "attributes.resolve"
+      },
+      "eVirYI7i": {
+        "path": "disciplines.animalism"
+      }
+    }
+  },
+  "effects": [],
+  "folder": "5GOc3I8pslY8Tvfa",
+  "sort": 101,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "power-sense-the-beast"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

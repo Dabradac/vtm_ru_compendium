@@ -1,0 +1,40 @@
+{
+  "_id": "yTaM1sIlL7of79ww",
+  "_key": "!items!yTaM1sIlL7of79ww",
+  "name": "Дурная слава (Infamy)",
+  "type": "feature",
+  "img": "systems/wod5e/assets/icons/items/feature.svg",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Стоимость:</strong> ••</p><p>Персонаж известен среди смертных чем-то скандальным.</p>",
+    "points": 2,
+    "featuretype": "flaw",
+    "uses": {
+      "current": 0,
+      "max": 0,
+      "enabled": false
+    }
+  },
+  "effects": [],
+  "folder": "mPeI2mrESWUMj1ZZ",
+  "sort": 2,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "feature-infamy"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

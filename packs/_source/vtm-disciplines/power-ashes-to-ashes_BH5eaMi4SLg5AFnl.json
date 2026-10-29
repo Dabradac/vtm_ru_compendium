@@ -1,0 +1,45 @@
+{
+  "_id": "BH5eaMi4SLg5AFnl",
+  "_key": "!items!BH5eaMi4SLg5AFnl",
+  "name": "Прах к праху (Ashes to Ashes)",
+  "type": "power",
+  "img": "systems/wod5e/assets/icons/items/discipline.png",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Players Guide",
+      "page": ""
+    },
+    "description": "<p><strong>Дисциплина:</strong> Обливион •</p><p><strong>Стоимость:</strong> 1 проверка пробуждения</p><p><strong>Бросок:</strong> Выносливость + Обливион</p><p><strong>Сопротивление:</strong> Выносливость + Медицина или Стойкость</p><p><strong>Длительность:</strong> Несколько ходов</p><p>Вампир обращает мёртвое тело в прах, не оставляя следов.</p>",
+    "level": 1,
+    "cost": 1,
+    "discipline": "oblivion",
+    "selected": false,
+    "dicepool": {
+      "BkERVxAG": {
+        "path": "attributes.stamina"
+      },
+      "dS4dM7Kd": {
+        "path": "disciplines.oblivion"
+      }
+    }
+  },
+  "effects": [],
+  "folder": "N7H7uFo7zMEkfpob",
+  "sort": 102,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "power-ashes-to-ashes"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

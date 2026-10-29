@@ -1,0 +1,41 @@
+{
+  "_id": "K772vgeumogeqrKP",
+  "_key": "!items!K772vgeumogeqrKP",
+  "name": "Уличный кот (Alleycat)",
+  "type": "predatorType",
+  "img": "icons/svg/pawprint.svg",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Бросок охоты:</strong> Сила + Драка</p><p><strong>Даёт:</strong> Специализация: Запугивание (Ограбление) или Драка (Захват). Дисциплина: Стремительность или Мощь. −1 Человечность. Контакты 3 (преступный мир).</p><p>Охотится силой: грабит, нападает и запугивает жертв.</p>",
+    "dicepool": {
+      "8eLZLN2f": {
+        "path": "attributes.strength"
+      },
+      "6CrEUjrp": {
+        "path": "skills.brawl"
+      }
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "predatorType-alleycat"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

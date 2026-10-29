@@ -1,0 +1,45 @@
+{
+  "_id": "5Nri5gpmYy2ptvDG",
+  "_key": "!items!5Nri5gpmYy2ptvDG",
+  "name": "Исчезновение (Vanish)",
+  "type": "power",
+  "img": "systems/wod5e/assets/icons/items/discipline.png",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Дисциплина:</strong> Сокрытие ••••</p><p><strong>Стоимость:</strong> Бесплатно</p><p><strong>Бросок:</strong> Смекалка + Сокрытие</p><p><strong>Сопротивление:</strong> Хитрость + Ясновидение</p><p><strong>Длительность:</strong> Как у «Плаща теней» / «Незримого пути»</p><p>Вампир исчезает прямо на глазах у наблюдателей, стирая память о том, куда он делся.</p>",
+    "level": 4,
+    "cost": 0,
+    "discipline": "obfuscate",
+    "selected": false,
+    "dicepool": {
+      "BAfQOKF5": {
+        "path": "attributes.wits"
+      },
+      "Hl8AmzYH": {
+        "path": "disciplines.obfuscate"
+      }
+    }
+  },
+  "effects": [],
+  "folder": "w1mF62eD3M3OdRDK",
+  "sort": 406,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "power-vanish"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

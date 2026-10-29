@@ -1,0 +1,40 @@
+{
+  "_id": "yLtrQB1lQapr6Y9y",
+  "_key": "!items!yLtrQB1lQapr6Y9y",
+  "name": "Загляни в багажник (Check the Trunk)",
+  "type": "feature",
+  "img": "systems/wod5e/assets/icons/items/feature.svg",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Стоимость:</strong> •</p><p>Тайник со снаряжением; бонус к броскам, когда нужно что-то найти.</p>",
+    "points": 1,
+    "featuretype": "merit",
+    "uses": {
+      "current": 0,
+      "max": 0,
+      "enabled": false
+    }
+  },
+  "effects": [],
+  "folder": "yUzOZ9ZnB1E6K7cQ",
+  "sort": 8,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "feature-check-the-trunk"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

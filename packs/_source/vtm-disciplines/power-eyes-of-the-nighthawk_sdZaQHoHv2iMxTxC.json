@@ -1,0 +1,45 @@
+{
+  "_id": "sdZaQHoHv2iMxTxC",
+  "_key": "!items!sdZaQHoHv2iMxTxC",
+  "name": "Глаза ночного ястреба (Eyes of the Nighthawk)",
+  "type": "power",
+  "img": "systems/wod5e/assets/icons/items/discipline.png",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Дисциплина:</strong> Ритуалы ••••</p><p><strong>Стоимость:</strong> 1 проверка пробуждения</p><p><strong>Бросок:</strong> Интеллект + Кровавое чародейство</p><p><strong>Длительность:</strong> Одна сцена</p><p>Колдун видит глазами птицы и управляет её полётом.</p>",
+    "level": 4,
+    "cost": 1,
+    "discipline": "rituals",
+    "selected": false,
+    "dicepool": {
+      "4HW891ER": {
+        "path": "attributes.intelligence"
+      },
+      "0fE7Xi24": {
+        "path": "disciplines.sorcery"
+      }
+    }
+  },
+  "effects": [],
+  "folder": "rmad3vndr7tgbHJ6",
+  "sort": 417,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "power-eyes-of-the-nighthawk"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

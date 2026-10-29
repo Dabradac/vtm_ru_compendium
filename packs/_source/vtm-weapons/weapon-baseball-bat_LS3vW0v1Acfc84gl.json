@@ -1,0 +1,49 @@
+{
+  "_id": "LS3vW0v1Acfc84gl",
+  "_key": "!items!LS3vW0v1Acfc84gl",
+  "name": "Бейсбольная бита (Baseball Bat)",
+  "type": "weapon",
+  "img": "icons/svg/sword.svg",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Модификатор урона:</strong> +2</p><p><strong>Бросок:</strong> Сила + Ближний бой</p><p>Тяжёлое ударное. Поверхностные повреждения.</p>",
+    "weaponType": "melee",
+    "weaponvalue": 2,
+    "quantity": 1,
+    "uses": {
+      "current": 0,
+      "max": 0,
+      "enabled": false
+    },
+    "dicepool": {
+      "JeCGeAQd": {
+        "path": "attributes.strength"
+      },
+      "4MEe2P0l": {
+        "path": "skills.melee"
+      }
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 1,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "weapon-baseball-bat"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

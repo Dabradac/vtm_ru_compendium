@@ -1,0 +1,45 @@
+{
+  "_id": "T1IZcayoPHk1HJX7",
+  "_key": "!items!T1IZcayoPHk1HJX7",
+  "name": "Разделить чувства (Share the Senses)",
+  "type": "power",
+  "img": "systems/wod5e/assets/icons/items/discipline.png",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Дисциплина:</strong> Ясновидение •••</p><p><strong>Стоимость:</strong> 1 проверка пробуждения</p><p><strong>Бросок:</strong> Решимость + Ясновидение</p><p><strong>Длительность:</strong> Одна сцена</p><p>Вампир смотрит глазами и слышит ушами того, кого когда-то пил.</p>",
+    "level": 3,
+    "cost": 1,
+    "discipline": "auspex",
+    "selected": false,
+    "dicepool": {
+      "1PcLeVX3": {
+        "path": "attributes.resolve"
+      },
+      "Pid3MrWA": {
+        "path": "disciplines.auspex"
+      }
+    }
+  },
+  "effects": [],
+  "folder": "78xnQYQxRah30qgC",
+  "sort": 304,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "power-share-the-senses"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

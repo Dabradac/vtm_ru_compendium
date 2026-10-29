@@ -1,0 +1,45 @@
+{
+  "_id": "NiqX2jRTB5SbwbKZ",
+  "_key": "!items!NiqX2jRTB5SbwbKZ",
+  "name": "Усмирить Зверя (Quell the Beast)",
+  "type": "power",
+  "img": "systems/wod5e/assets/icons/items/discipline.png",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Дисциплина:</strong> Анимализм •••</p><p><strong>Стоимость:</strong> 1 проверка пробуждения</p><p><strong>Бросок:</strong> Харизма + Анимализм</p><p><strong>Сопротивление:</strong> Выносливость + Решимость</p><p><strong>Длительность:</strong> Одна сцена</p><p>Вампир подавляет Зверя в цели. Смертные становятся апатичными, сородичи выходят из бешенства или временно не могут использовать Голодные кости в агрессивных действиях.</p>",
+    "level": 3,
+    "cost": 1,
+    "discipline": "animalism",
+    "selected": false,
+    "dicepool": {
+      "m4EXdbjq": {
+        "path": "attributes.charisma"
+      },
+      "hUpgePpk": {
+        "path": "disciplines.animalism"
+      }
+    }
+  },
+  "effects": [],
+  "folder": "5GOc3I8pslY8Tvfa",
+  "sort": 304,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "power-quell-the-beast"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

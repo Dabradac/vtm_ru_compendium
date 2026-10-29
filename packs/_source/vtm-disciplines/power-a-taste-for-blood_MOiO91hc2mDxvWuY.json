@@ -1,0 +1,45 @@
+{
+  "_id": "MOiO91hc2mDxvWuY",
+  "_key": "!items!MOiO91hc2mDxvWuY",
+  "name": "Вкус крови (A Taste for Blood)",
+  "type": "power",
+  "img": "systems/wod5e/assets/icons/items/discipline.png",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Дисциплина:</strong> Кровавое чародейство •</p><p><strong>Стоимость:</strong> Бесплатно</p><p><strong>Бросок:</strong> Решимость + Кровавое чародейство</p><p><strong>Сопротивление:</strong> Самообладание + Хитрость</p><p><strong>Длительность:</strong> Один ход</p><p>Попробовав кровь, вампир узнаёт её резонанс, Мощь крови, поколение, следы диаблери.</p>",
+    "level": 1,
+    "cost": 0,
+    "discipline": "sorcery",
+    "selected": false,
+    "dicepool": {
+      "ddW94Nxl": {
+        "path": "attributes.resolve"
+      },
+      "CKePsiCb": {
+        "path": "disciplines.sorcery"
+      }
+    }
+  },
+  "effects": [],
+  "folder": "d6XJcrzZTatC3oJq",
+  "sort": 101,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "power-a-taste-for-blood"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

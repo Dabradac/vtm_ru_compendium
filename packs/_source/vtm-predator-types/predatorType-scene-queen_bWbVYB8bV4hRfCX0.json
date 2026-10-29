@@ -1,0 +1,41 @@
+{
+  "_id": "bWbVYB8bV4hRfCX0",
+  "_key": "!items!bWbVYB8bV4hRfCX0",
+  "name": "Королева тусовки (Scene Queen)",
+  "type": "predatorType",
+  "img": "icons/svg/pawprint.svg",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Бросок охоты:</strong> Манипулирование + Убеждение</p><p><strong>Даёт:</strong> Специализация: Этикет (сцена), Лидерство (сцена) или Знание улиц (сцена). Дисциплина: Доминирование или Мощь. Влияние 1 и Слава 1. Недостаток «Нелюбимый» (1) за пределами сцены или «Исключение добычи» (1).</p><p>Охотится внутри своей субкультуры, где её обожают.</p>",
+    "dicepool": {
+      "MIz4z0u0": {
+        "path": "attributes.manipulation"
+      },
+      "0dJdtnyG": {
+        "path": "skills.persuasion"
+      }
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 8,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "predatorType-scene-queen"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

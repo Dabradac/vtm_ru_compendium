@@ -1,0 +1,40 @@
+{
+  "_id": "G3D0BtSUPKW1D35Q",
+  "_key": "!items!G3D0BtSUPKW1D35Q",
+  "name": "Явный хищник (Obvious Predator)",
+  "type": "feature",
+  "img": "systems/wod5e/assets/icons/items/feature.svg",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Стоимость:</strong> ••</p><p>Смертные инстинктивно сторонятся вампира; штраф к охоте и Социальным броскам.</p>",
+    "points": 2,
+    "featuretype": "flaw",
+    "uses": {
+      "current": 0,
+      "max": 0,
+      "enabled": false
+    }
+  },
+  "effects": [],
+  "folder": "rNo7PZAkD7se9lor",
+  "sort": 19,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "feature-obvious-predator"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "_id": "aIwXOKpFexe3MP6C",
+  "_key": "!items!aIwXOKpFexe3MP6C",
+  "name": "Воздушный импульс (Airborne Momentum)",
+  "type": "power",
+  "img": "systems/wod5e/assets/icons/items/discipline.png",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Дисциплина:</strong> Алхимия слабокровных •••</p><p><strong>Стоимость:</strong> 1 проверка пробуждения</p><p><strong>Бросок:</strong> Сила + Алхимия слабокровных</p><p><strong>Длительность:</strong> Одна сцена</p><p>Алхимик летает со скоростью бега.</p>",
+    "level": 3,
+    "cost": 1,
+    "discipline": "alchemy",
+    "selected": false,
+    "dicepool": {
+      "2j4CyQ8g": {
+        "path": "attributes.strength"
+      },
+      "myFECYCF": {
+        "path": "disciplines.alchemy"
+      }
+    }
+  },
+  "effects": [],
+  "folder": "F4BpBMLfHl6w6WGc",
+  "sort": 305,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "power-airborne-momentum"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

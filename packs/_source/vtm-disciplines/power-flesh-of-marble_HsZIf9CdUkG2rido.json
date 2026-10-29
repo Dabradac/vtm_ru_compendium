@@ -1,0 +1,38 @@
+{
+  "_id": "HsZIf9CdUkG2rido",
+  "_key": "!items!HsZIf9CdUkG2rido",
+  "name": "Мраморная плоть (Flesh of Marble)",
+  "type": "power",
+  "img": "systems/wod5e/assets/icons/items/discipline.png",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Дисциплина:</strong> Стойкость •••••</p><p><strong>Стоимость:</strong> 2 проверки пробуждения</p><p><strong>Длительность:</strong> Одна сцена</p><p>Первый источник физических повреждений за ход полностью игнорируется (кроме солнца).</p>",
+    "level": 5,
+    "cost": 2,
+    "discipline": "fortitude",
+    "selected": false,
+    "dicepool": {}
+  },
+  "effects": [],
+  "folder": "4XRPzZJCYsp7CjdJ",
+  "sort": 507,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "power-flesh-of-marble"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

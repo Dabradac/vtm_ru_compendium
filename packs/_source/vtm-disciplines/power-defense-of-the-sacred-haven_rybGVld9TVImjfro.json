@@ -1,0 +1,45 @@
+{
+  "_id": "rybGVld9TVImjfro",
+  "_key": "!items!rybGVld9TVImjfro",
+  "name": "Защита священного убежища (Defense of the Sacred Haven)",
+  "type": "power",
+  "img": "systems/wod5e/assets/icons/items/discipline.png",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Дисциплина:</strong> Ритуалы ••••</p><p><strong>Стоимость:</strong> 1 проверка пробуждения</p><p><strong>Бросок:</strong> Интеллект + Кровавое чародейство</p><p><strong>Длительность:</strong> Пока колдун в убежище</p><p>Солнечный свет не проникает в убежище колдуна.</p>",
+    "level": 4,
+    "cost": 1,
+    "discipline": "rituals",
+    "selected": false,
+    "dicepool": {
+      "XYChf8Xl": {
+        "path": "attributes.intelligence"
+      },
+      "cNmPrJ0S": {
+        "path": "disciplines.sorcery"
+      }
+    }
+  },
+  "effects": [],
+  "folder": "rmad3vndr7tgbHJ6",
+  "sort": 416,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "power-defense-of-the-sacred-haven"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

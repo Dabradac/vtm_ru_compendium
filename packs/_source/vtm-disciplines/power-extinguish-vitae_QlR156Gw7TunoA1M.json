@@ -1,0 +1,45 @@
+{
+  "_id": "QlR156Gw7TunoA1M",
+  "_key": "!items!QlR156Gw7TunoA1M",
+  "name": "Угасить витэ (Extinguish Vitae)",
+  "type": "power",
+  "img": "systems/wod5e/assets/icons/items/discipline.png",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Дисциплина:</strong> Кровавое чародейство ••</p><p><strong>Стоимость:</strong> 1 проверка пробуждения</p><p><strong>Бросок:</strong> Интеллект + Кровавое чародейство</p><p><strong>Сопротивление:</strong> Выносливость + Самообладание</p><p><strong>Длительность:</strong> Один ход</p><p>Голод цели-сородича возрастает.</p>",
+    "level": 2,
+    "cost": 1,
+    "discipline": "sorcery",
+    "selected": false,
+    "dicepool": {
+      "DNlXgBYw": {
+        "path": "attributes.intelligence"
+      },
+      "SWKO1A8D": {
+        "path": "disciplines.sorcery"
+      }
+    }
+  },
+  "effects": [],
+  "folder": "d6XJcrzZTatC3oJq",
+  "sort": 202,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "power-extinguish-vitae"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

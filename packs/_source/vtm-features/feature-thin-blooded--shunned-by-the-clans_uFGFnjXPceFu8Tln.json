@@ -1,0 +1,40 @@
+{
+  "_id": "uFGFnjXPceFu8Tln",
+  "_key": "!items!uFGFnjXPceFu8Tln",
+  "name": "Слабокровный: Отверженный кланами (Thin-Blooded: Shunned by the Clans)",
+  "type": "feature",
+  "img": "systems/wod5e/assets/icons/items/feature.svg",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Стоимость:</strong> •</p><p>Сородичи открыто презирают персонажа.</p>",
+    "points": 1,
+    "featuretype": "flaw",
+    "uses": {
+      "current": 0,
+      "max": 0,
+      "enabled": false
+    }
+  },
+  "effects": [],
+  "folder": "rNo7PZAkD7se9lor",
+  "sort": 25,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "feature-thin-blooded:-shunned-by-the-clans"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

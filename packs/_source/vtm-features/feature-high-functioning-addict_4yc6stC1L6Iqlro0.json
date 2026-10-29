@@ -1,0 +1,40 @@
+{
+  "_id": "4yc6stC1L6Iqlro0",
+  "_key": "!items!4yc6stC1L6Iqlro0",
+  "name": "Функциональный наркоман (High-Functioning Addict)",
+  "type": "feature",
+  "img": "systems/wod5e/assets/icons/items/feature.svg",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Стоимость:</strong> •</p><p>Кровь под действием наркотика, к которому вампир пристрастился, даёт ему бонус.</p>",
+    "points": 1,
+    "featuretype": "merit",
+    "uses": {
+      "current": 0,
+      "max": 0,
+      "enabled": false
+    }
+  },
+  "effects": [],
+  "folder": "yUzOZ9ZnB1E6K7cQ",
+  "sort": 10,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "feature-high-functioning-addict"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "_id": "5TRV15bB4PFkO400",
+  "_key": "!items!5TRV15bB4PFkO400",
+  "name": "Очи Вавилона (Eyes of Babel)",
+  "type": "power",
+  "img": "systems/wod5e/assets/icons/items/discipline.png",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Дисциплина:</strong> Ритуалы ••</p><p><strong>Стоимость:</strong> 1 проверка пробуждения</p><p><strong>Бросок:</strong> Интеллект + Кровавое чародейство</p><p><strong>Длительность:</strong> Одна ночь</p><p>Колдун понимает и говорит на языке, носитель которого дал ему свою кровь.</p>",
+    "level": 2,
+    "cost": 1,
+    "discipline": "rituals",
+    "selected": false,
+    "dicepool": {
+      "jbPYAaAO": {
+        "path": "attributes.intelligence"
+      },
+      "BelyabUT": {
+        "path": "disciplines.sorcery"
+      }
+    }
+  },
+  "effects": [],
+  "folder": "rmad3vndr7tgbHJ6",
+  "sort": 206,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "power-eyes-of-babel"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "_id": "mzbwG4TyDfPVUzvu",
+  "_key": "!items!mzbwG4TyDfPVUzvu",
+  "name": "Узы фамулуса (Bond Famulus)",
+  "type": "power",
+  "img": "systems/wod5e/assets/icons/items/discipline.png",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Дисциплина:</strong> Анимализм •</p><p><strong>Стоимость:</strong> Бесплатно</p><p><strong>Бросок:</strong> Харизма + Обращение с животными</p><p><strong>Длительность:</strong> Постоянно</p><p>Вампир привязывает к себе животное, трижды напоив его своей кровью. Фамулусу можно отдавать простые приказы (Харизма + Обращение с животными); с силой «Звериный шёпот» общение с ним не требует проверки пробуждения.</p>",
+    "level": 1,
+    "cost": 0,
+    "discipline": "animalism",
+    "selected": false,
+    "dicepool": {
+      "FRlQiHhq": {
+        "path": "attributes.charisma"
+      },
+      "VFePoeex": {
+        "path": "skills.animalken"
+      }
+    }
+  },
+  "effects": [],
+  "folder": "5GOc3I8pslY8Tvfa",
+  "sort": 100,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "power-bond-famulus"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

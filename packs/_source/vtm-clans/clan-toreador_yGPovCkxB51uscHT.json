@@ -1,0 +1,34 @@
+{
+  "_id": "yGPovCkxB51uscHT",
+  "_key": "!items!yGPovCkxB51uscHT",
+  "name": "Тореадор (Toreador)",
+  "type": "clan",
+  "img": "icons/svg/castle.svg",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Клановые дисциплины:</strong> Ясновидение, Стремительность, Величие</p><p><strong>Порок:</strong> Одержимость: вампир зачарован чем-то прекрасным и не может от него оторваться; штраф −2 к прочим броскам.</p><p>Ценители красоты, художники и светские львы.</p>",
+    "bane": "<p>Эстетическая фиксация: в некрасивом окружении штраф, равный тяжести изъяна, к броскам Дисциплин.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 4,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "clan-toreador"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

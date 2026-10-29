@@ -1,0 +1,49 @@
+{
+  "_id": "kyQPVXNi4BnlYVtF",
+  "_key": "!items!kyQPVXNi4BnlYVtF",
+  "name": "Автомат (Assault Rifle)",
+  "type": "weapon",
+  "img": "icons/svg/sword.svg",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Модификатор урона:</strong> +4</p><p><strong>Бросок:</strong> Ловкость + Стрельба</p><p>Автоматический огонь: можно атаковать нескольких целей.</p>",
+    "weaponType": "ranged",
+    "weaponvalue": 4,
+    "quantity": 1,
+    "uses": {
+      "current": 0,
+      "max": 0,
+      "enabled": false
+    },
+    "dicepool": {
+      "Aljhlx6D": {
+        "path": "attributes.dexterity"
+      },
+      "T3rqXFPt": {
+        "path": "skills.firearms"
+      }
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 10,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "weapon-assault-rifle"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "_id": "OYpcmEhWbp2fgZ2V",
+  "_key": "!items!OYpcmEhWbp2fgZ2V",
+  "name": "Взор Обливиона (Oblivion's Sight)",
+  "type": "power",
+  "img": "systems/wod5e/assets/icons/items/discipline.png",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Players Guide",
+      "page": ""
+    },
+    "description": "<p><strong>Дисциплина:</strong> Обливион •</p><p><strong>Стоимость:</strong> Бесплатно</p><p><strong>Длительность:</strong> Одна сцена</p><p>Вампир видит в темноте и замечает призраков.</p>",
+    "level": 1,
+    "cost": 0,
+    "discipline": "oblivion",
+    "selected": false,
+    "dicepool": {}
+  },
+  "effects": [],
+  "folder": "N7H7uFo7zMEkfpob",
+  "sort": 101,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "power-oblivion's-sight"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

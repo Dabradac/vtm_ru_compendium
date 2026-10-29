@@ -1,0 +1,45 @@
+{
+  "_id": "Bl1mqdHhdQG4bxGh",
+  "_key": "!items!Bl1mqdHhdQG4bxGh",
+  "name": "Руки Аримана (Arms of Ahriman)",
+  "type": "power",
+  "img": "systems/wod5e/assets/icons/items/discipline.png",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Players Guide",
+      "page": ""
+    },
+    "description": "<p><strong>Дисциплина:</strong> Обливион ••</p><p><strong>Амальгама:</strong> Мощь 2</p><p><strong>Стоимость:</strong> 1 проверка пробуждения</p><p><strong>Бросок:</strong> Смекалка + Обливион</p><p><strong>Длительность:</strong> Одна сцена</p><p>Щупальца тьмы хватают и душат противников.</p>",
+    "level": 2,
+    "cost": 1,
+    "discipline": "oblivion",
+    "selected": false,
+    "dicepool": {
+      "r0D5NtaK": {
+        "path": "attributes.wits"
+      },
+      "MBMVKdeg": {
+        "path": "disciplines.oblivion"
+      }
+    }
+  },
+  "effects": [],
+  "folder": "N7H7uFo7zMEkfpob",
+  "sort": 204,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "power-arms-of-ahriman"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

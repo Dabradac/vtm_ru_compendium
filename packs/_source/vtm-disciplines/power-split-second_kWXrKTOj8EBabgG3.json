@@ -1,0 +1,38 @@
+{
+  "_id": "kWXrKTOj8EBabgG3",
+  "_key": "!items!kWXrKTOj8EBabgG3",
+  "name": "Доля секунды (Split Second)",
+  "type": "power",
+  "img": "systems/wod5e/assets/icons/items/discipline.png",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Дисциплина:</strong> Стремительность •••••</p><p><strong>Стоимость:</strong> 1 проверка пробуждения</p><p><strong>Длительность:</strong> Мгновенно</p><p>Вампир вклинивается в уже описанное Рассказчиком событие и действует до того, как оно произойдёт.</p>",
+    "level": 5,
+    "cost": 1,
+    "discipline": "celerity",
+    "selected": false,
+    "dicepool": {}
+  },
+  "effects": [],
+  "folder": "rAdaOaGWwVkUhfiQ",
+  "sort": 508,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "power-split-second"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

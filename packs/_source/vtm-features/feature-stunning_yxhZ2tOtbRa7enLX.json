@@ -1,0 +1,40 @@
+{
+  "_id": "yxhZ2tOtbRa7enLX",
+  "_key": "!items!yxhZ2tOtbRa7enLX",
+  "name": "Ослепительная красота (Stunning)",
+  "type": "feature",
+  "img": "systems/wod5e/assets/icons/items/feature.svg",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Стоимость:</strong> ••••</p><p>+2 к Социальным броскам, где важна внешность.</p>",
+    "points": 4,
+    "featuretype": "merit",
+    "uses": {
+      "current": 0,
+      "max": 0,
+      "enabled": false
+    }
+  },
+  "effects": [],
+  "folder": "yUzOZ9ZnB1E6K7cQ",
+  "sort": 2,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "feature-stunning"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

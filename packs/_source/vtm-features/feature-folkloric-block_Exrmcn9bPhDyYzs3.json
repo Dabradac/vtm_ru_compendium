@@ -1,0 +1,40 @@
+{
+  "_id": "Exrmcn9bPhDyYzs3",
+  "_key": "!items!Exrmcn9bPhDyYzs3",
+  "name": "Фольклорный запрет (Folkloric Block)",
+  "type": "feature",
+  "img": "systems/wod5e/assets/icons/items/feature.svg",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Стоимость:</strong> •</p><p>Вампир должен потратить Силу воли, чтобы приблизиться к определённому предмету или месту.</p>",
+    "points": 1,
+    "featuretype": "flaw",
+    "uses": {
+      "current": 0,
+      "max": 0,
+      "enabled": false
+    }
+  },
+  "effects": [],
+  "folder": "rNo7PZAkD7se9lor",
+  "sort": 16,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "feature-folkloric-block"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "_id": "P68tZvgKIjiHZzb0",
+  "_key": "!items!P68tZvgKIjiHZzb0",
+  "name": "Телепатия (Telepathy)",
+  "type": "power",
+  "img": "systems/wod5e/assets/icons/items/discipline.png",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Дисциплина:</strong> Ясновидение •••••</p><p><strong>Стоимость:</strong> 1 проверка пробуждения</p><p><strong>Бросок:</strong> Решимость + Ясновидение</p><p><strong>Сопротивление:</strong> Хитрость + Сокрытие (для сородичей)</p><p><strong>Длительность:</strong> Одна минута за каждую проверку</p><p>Вампир читает поверхностные мысли и может передавать свои. Сородичи должны быть согласны или проиграть противостояние.</p>",
+    "level": 5,
+    "cost": 1,
+    "discipline": "auspex",
+    "selected": false,
+    "dicepool": {
+      "SARgd6H4": {
+        "path": "attributes.resolve"
+      },
+      "UtZdbcNh": {
+        "path": "disciplines.auspex"
+      }
+    }
+  },
+  "effects": [],
+  "folder": "78xnQYQxRah30qgC",
+  "sort": 508,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "power-telepathy"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

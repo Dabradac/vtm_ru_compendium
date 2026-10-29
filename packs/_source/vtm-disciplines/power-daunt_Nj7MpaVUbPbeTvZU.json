@@ -1,0 +1,45 @@
+{
+  "_id": "Nj7MpaVUbPbeTvZU",
+  "_key": "!items!Nj7MpaVUbPbeTvZU",
+  "name": "Устрашение (Daunt)",
+  "type": "power",
+  "img": "systems/wod5e/assets/icons/items/discipline.png",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Дисциплина:</strong> Величие •</p><p><strong>Стоимость:</strong> Бесплатно</p><p><strong>Бросок:</strong> Харизма + Величие</p><p><strong>Сопротивление:</strong> Самообладание + Решимость</p><p><strong>Длительность:</strong> Одна сцена</p><p>Вампир источает угрозу: никто не решается напасть первым, а Величие добавляется к Запугиванию.</p>",
+    "level": 1,
+    "cost": 0,
+    "discipline": "presence",
+    "selected": false,
+    "dicepool": {
+      "g9RStBPO": {
+        "path": "attributes.charisma"
+      },
+      "mQdy8Sd1": {
+        "path": "disciplines.presence"
+      }
+    }
+  },
+  "effects": [],
+  "folder": "r9Ufy21BQzVnYCIq",
+  "sort": 101,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "power-daunt"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

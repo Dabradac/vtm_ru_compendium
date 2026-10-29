@@ -1,0 +1,38 @@
+{
+  "_id": "J2m2ESUJg7gBFRxe",
+  "_key": "!items!J2m2ESUJg7gBFRxe",
+  "name": "Неживой улей (Unliving Hive)",
+  "type": "power",
+  "img": "systems/wod5e/assets/icons/items/discipline.png",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Дисциплина:</strong> Анимализм •••</p><p><strong>Амальгама:</strong> Сокрытие 2</p><p><strong>Стоимость:</strong> Бесплатно</p><p><strong>Длительность:</strong> Пассивно</p><p>Действие Анимализма распространяется на рои насекомых. Вампир может носить рой в своём теле.</p>",
+    "level": 3,
+    "cost": 0,
+    "discipline": "animalism",
+    "selected": false,
+    "dicepool": {}
+  },
+  "effects": [],
+  "folder": "5GOc3I8pslY8Tvfa",
+  "sort": 305,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "power-unliving-hive"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

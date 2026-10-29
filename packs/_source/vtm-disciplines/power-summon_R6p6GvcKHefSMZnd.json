@@ -1,0 +1,45 @@
+{
+  "_id": "R6p6GvcKHefSMZnd",
+  "_key": "!items!R6p6GvcKHefSMZnd",
+  "name": "Призыв (Summon)",
+  "type": "power",
+  "img": "systems/wod5e/assets/icons/items/discipline.png",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Дисциплина:</strong> Величие ••••</p><p><strong>Стоимость:</strong> 1 проверка пробуждения</p><p><strong>Бросок:</strong> Манипулирование + Величие</p><p><strong>Сопротивление:</strong> Самообладание + Интеллект</p><p><strong>Длительность:</strong> Одна ночь</p><p>Тот, кто уже был под действием Величия или пил кровь вампира, приходит к нему, где бы он ни находился.</p>",
+    "level": 4,
+    "cost": 1,
+    "discipline": "presence",
+    "selected": false,
+    "dicepool": {
+      "OxQsdjcg": {
+        "path": "attributes.manipulation"
+      },
+      "JNRSVXNQ": {
+        "path": "disciplines.presence"
+      }
+    }
+  },
+  "effects": [],
+  "folder": "r9Ufy21BQzVnYCIq",
+  "sort": 406,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "power-summon"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

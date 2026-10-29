@@ -1,0 +1,38 @@
+{
+  "_id": "OZ4fEfik6G6qecpZ",
+  "_key": "!items!OZ4fEfik6G6qecpZ",
+  "name": "Превращение (Metamorphosis)",
+  "type": "power",
+  "img": "systems/wod5e/assets/icons/items/discipline.png",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Дисциплина:</strong> Метаморфозы ••••</p><p><strong>Стоимость:</strong> 1 проверка пробуждения</p><p><strong>Длительность:</strong> Одна сцена</p><p>Смена облика в любое животное, независимо от размера (летучая мышь, крыса, медведь).</p>",
+    "level": 4,
+    "cost": 1,
+    "discipline": "protean",
+    "selected": false,
+    "dicepool": {}
+  },
+  "effects": [],
+  "folder": "pyCEcX7jAvOwCelN",
+  "sort": 405,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "power-metamorphosis"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

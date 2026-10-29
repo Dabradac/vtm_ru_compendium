@@ -1,0 +1,45 @@
+{
+  "_id": "vMtHukp5LloQshcT",
+  "_key": "!items!vMtHukp5LloQshcT",
+  "name": "Похищение витэ (Theft of Vitae)",
+  "type": "power",
+  "img": "systems/wod5e/assets/icons/items/discipline.png",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Дисциплина:</strong> Кровавое чародейство ••••</p><p><strong>Стоимость:</strong> 1 проверка пробуждения</p><p><strong>Бросок:</strong> Смекалка + Кровавое чародейство</p><p><strong>Сопротивление:</strong> Хитрость + Оккультизм</p><p><strong>Длительность:</strong> Один ход</p><p>Кровь жертвы летит через воздух прямо в рот вампира.</p>",
+    "level": 4,
+    "cost": 1,
+    "discipline": "sorcery",
+    "selected": false,
+    "dicepool": {
+      "jjEozZHW": {
+        "path": "attributes.wits"
+      },
+      "dfpRgFwe": {
+        "path": "disciplines.sorcery"
+      }
+    }
+  },
+  "effects": [],
+  "folder": "d6XJcrzZTatC3oJq",
+  "sort": 405,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "power-theft-of-vitae"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

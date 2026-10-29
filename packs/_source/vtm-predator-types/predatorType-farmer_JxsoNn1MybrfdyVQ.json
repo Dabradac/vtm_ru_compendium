@@ -1,0 +1,41 @@
+{
+  "_id": "JxsoNn1MybrfdyVQ",
+  "_key": "!items!JxsoNn1MybrfdyVQ",
+  "name": "Фермер (Farmer)",
+  "type": "predatorType",
+  "img": "icons/svg/pawprint.svg",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Бросок охоты:</strong> Самообладание + Обращение с животными</p><p><strong>Даёт:</strong> Специализация: Обращение с животными (выбранное животное) или Выживание (Охота). Дисциплина: Анимализм или Метаморфозы. +1 Человечность. Недостаток «Веган» (2).</p><p>Питается только кровью животных.</p>",
+    "dicepool": {
+      "znBknajN": {
+        "path": "attributes.composure"
+      },
+      "ZuQmjoVg": {
+        "path": "skills.animalken"
+      }
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 5,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "predatorType-farmer"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

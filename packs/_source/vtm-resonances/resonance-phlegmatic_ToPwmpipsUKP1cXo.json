@@ -1,0 +1,33 @@
+{
+  "_id": "ToPwmpipsUKP1cXo",
+  "_key": "!items!ToPwmpipsUKP1cXo",
+  "name": "Флегматическая (Phlegmatic)",
+  "type": "resonance",
+  "img": "icons/svg/blood.svg",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Усиливает дисциплины:</strong> Ясновидение, Доминирование</p><p>Спокойствие, апатия, лень, уравновешенность. Источники: уставшие, медитирующие, безразличные.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 2,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "resonance-phlegmatic"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

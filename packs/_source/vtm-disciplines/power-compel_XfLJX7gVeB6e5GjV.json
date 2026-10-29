@@ -1,0 +1,45 @@
+{
+  "_id": "XfLJX7gVeB6e5GjV",
+  "_key": "!items!XfLJX7gVeB6e5GjV",
+  "name": "Принуждение (Compel)",
+  "type": "power",
+  "img": "systems/wod5e/assets/icons/items/discipline.png",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Дисциплина:</strong> Доминирование •</p><p><strong>Стоимость:</strong> Бесплатно</p><p><strong>Бросок:</strong> Харизма + Доминирование</p><p><strong>Сопротивление:</strong> Интеллект + Решимость</p><p><strong>Длительность:</strong> Одна сцена максимум</p><p>Однословный (или очень короткий) приказ, который цель выполняет немедленно, если он не угрожает её жизни.</p>",
+    "level": 1,
+    "cost": 0,
+    "discipline": "dominate",
+    "selected": false,
+    "dicepool": {
+      "uNHDIl6w": {
+        "path": "attributes.charisma"
+      },
+      "kyUMzNp4": {
+        "path": "disciplines.dominate"
+      }
+    }
+  },
+  "effects": [],
+  "folder": "hhv308yIWwRRHPI3",
+  "sort": 101,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "power-compel"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

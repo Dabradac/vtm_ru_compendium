@@ -1,0 +1,45 @@
+{
+  "_id": "c2uZCehlBRRiYN7q",
+  "_key": "!items!c2uZCehlBRRiYN7q",
+  "name": "Безумие (Dementation)",
+  "type": "power",
+  "img": "systems/wod5e/assets/icons/items/discipline.png",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Дисциплина:</strong> Доминирование ••</p><p><strong>Амальгама:</strong> Сокрытие 2</p><p><strong>Стоимость:</strong> 1 проверка пробуждения</p><p><strong>Бросок:</strong> Манипулирование + Доминирование</p><p><strong>Сопротивление:</strong> Самообладание + Интеллект</p><p><strong>Длительность:</strong> Одна сцена</p><p>Вампир расшатывает рассудок цели, разжигая страхи и мании. Доступна в основном Малкавианам.</p>",
+    "level": 2,
+    "cost": 1,
+    "discipline": "dominate",
+    "selected": false,
+    "dicepool": {
+      "eYAXul9x": {
+        "path": "attributes.manipulation"
+      },
+      "xC2K510j": {
+        "path": "disciplines.dominate"
+      }
+    }
+  },
+  "effects": [],
+  "folder": "hhv308yIWwRRHPI3",
+  "sort": 203,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "power-dementation"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

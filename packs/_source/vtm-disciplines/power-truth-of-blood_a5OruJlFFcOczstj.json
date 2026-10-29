@@ -1,0 +1,45 @@
+{
+  "_id": "a5OruJlFFcOczstj",
+  "_key": "!items!a5OruJlFFcOczstj",
+  "name": "Истина крови (Truth of Blood)",
+  "type": "power",
+  "img": "systems/wod5e/assets/icons/items/discipline.png",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Дисциплина:</strong> Ритуалы ••</p><p><strong>Стоимость:</strong> 1 проверка пробуждения</p><p><strong>Бросок:</strong> Интеллект + Кровавое чародейство</p><p><strong>Длительность:</strong> Одна сцена</p><p>Кровь колдуна показывает, лжёт ли собеседник.</p>",
+    "level": 2,
+    "cost": 1,
+    "discipline": "rituals",
+    "selected": false,
+    "dicepool": {
+      "UhBfca7e": {
+        "path": "attributes.intelligence"
+      },
+      "3IC3GpJT": {
+        "path": "disciplines.sorcery"
+      }
+    }
+  },
+  "effects": [],
+  "folder": "rmad3vndr7tgbHJ6",
+  "sort": 208,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "power-truth-of-blood"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

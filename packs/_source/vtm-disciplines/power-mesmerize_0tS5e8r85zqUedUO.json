@@ -1,0 +1,45 @@
+{
+  "_id": "0tS5e8r85zqUedUO",
+  "_key": "!items!0tS5e8r85zqUedUO",
+  "name": "Гипноз (Mesmerize)",
+  "type": "power",
+  "img": "systems/wod5e/assets/icons/items/discipline.png",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Дисциплина:</strong> Доминирование ••</p><p><strong>Стоимость:</strong> 1 проверка пробуждения</p><p><strong>Бросок:</strong> Манипулирование + Доминирование</p><p><strong>Сопротивление:</strong> Интеллект + Решимость</p><p><strong>Длительность:</strong> До выполнения</p><p>Сложные приказы, которые цель выполняет как собственное намерение.</p>",
+    "level": 2,
+    "cost": 1,
+    "discipline": "dominate",
+    "selected": false,
+    "dicepool": {
+      "LnFIfmdn": {
+        "path": "attributes.manipulation"
+      },
+      "0sMzgoPh": {
+        "path": "disciplines.dominate"
+      }
+    }
+  },
+  "effects": [],
+  "folder": "hhv308yIWwRRHPI3",
+  "sort": 202,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "power-mesmerize"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

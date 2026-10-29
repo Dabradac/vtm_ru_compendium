@@ -1,0 +1,45 @@
+{
+  "_id": "JmtBLhaXZy1hPpUd",
+  "_key": "!items!JmtBLhaXZy1hPpUd",
+  "name": "Дефракционирование (Defractionate)",
+  "type": "power",
+  "img": "systems/wod5e/assets/icons/items/discipline.png",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Дисциплина:</strong> Алхимия слабокровных •••</p><p><strong>Стоимость:</strong> 1 проверка пробуждения</p><p><strong>Бросок:</strong> Интеллект + Алхимия слабокровных</p><p><strong>Длительность:</strong> Мгновенно</p><p>Превращает консервированную или испорченную кровь в пригодную для питания, утоляя Голод.</p>",
+    "level": 3,
+    "cost": 1,
+    "discipline": "alchemy",
+    "selected": false,
+    "dicepool": {
+      "UfFSbjoK": {
+        "path": "attributes.intelligence"
+      },
+      "umKLdFhP": {
+        "path": "disciplines.alchemy"
+      }
+    }
+  },
+  "effects": [],
+  "folder": "F4BpBMLfHl6w6WGc",
+  "sort": 304,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "power-defractionate"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

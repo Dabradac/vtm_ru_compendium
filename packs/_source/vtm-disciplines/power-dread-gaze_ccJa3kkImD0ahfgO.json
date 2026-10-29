@@ -1,0 +1,45 @@
+{
+  "_id": "ccJa3kkImD0ahfgO",
+  "_key": "!items!ccJa3kkImD0ahfgO",
+  "name": "Ужасающий взгляд (Dread Gaze)",
+  "type": "power",
+  "img": "systems/wod5e/assets/icons/items/discipline.png",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Дисциплина:</strong> Величие •••</p><p><strong>Стоимость:</strong> 1 проверка пробуждения</p><p><strong>Бросок:</strong> Харизма + Величие</p><p><strong>Сопротивление:</strong> Самообладание + Решимость</p><p><strong>Длительность:</strong> Один ход</p><p>Вампир являет истинный облик Зверя, обращая цель в бегство.</p>",
+    "level": 3,
+    "cost": 1,
+    "discipline": "presence",
+    "selected": false,
+    "dicepool": {
+      "krOHwWBS": {
+        "path": "attributes.charisma"
+      },
+      "41IDhc3y": {
+        "path": "disciplines.presence"
+      }
+    }
+  },
+  "effects": [],
+  "folder": "r9Ufy21BQzVnYCIq",
+  "sort": 303,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "power-dread-gaze"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

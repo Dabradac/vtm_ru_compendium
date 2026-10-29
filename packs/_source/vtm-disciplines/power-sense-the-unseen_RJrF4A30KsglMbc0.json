@@ -1,0 +1,45 @@
+{
+  "_id": "RJrF4A30KsglMbc0",
+  "_key": "!items!RJrF4A30KsglMbc0",
+  "name": "Видеть незримое (Sense the Unseen)",
+  "type": "power",
+  "img": "systems/wod5e/assets/icons/items/discipline.png",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Дисциплина:</strong> Ясновидение •</p><p><strong>Стоимость:</strong> Бесплатно</p><p><strong>Бросок:</strong> Смекалка + Ясновидение</p><p><strong>Длительность:</strong> Пассивно</p><p>Вампир замечает сверхъестественное: скрытых Сокрытием, призраков, следы магии.</p>",
+    "level": 1,
+    "cost": 0,
+    "discipline": "auspex",
+    "selected": false,
+    "dicepool": {
+      "QeB4Gx94": {
+        "path": "attributes.wits"
+      },
+      "nnIXstRH": {
+        "path": "disciplines.auspex"
+      }
+    }
+  },
+  "effects": [],
+  "folder": "78xnQYQxRah30qgC",
+  "sort": 101,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "power-sense-the-unseen"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

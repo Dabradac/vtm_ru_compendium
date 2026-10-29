@@ -1,0 +1,38 @@
+{
+  "_id": "Igc91F5Yd4vcZazi",
+  "_key": "!items!Igc91F5Yd4vcZazi",
+  "name": "Облик тумана (Mist Form)",
+  "type": "power",
+  "img": "systems/wod5e/assets/icons/items/discipline.png",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Дисциплина:</strong> Метаморфозы •••••</p><p><strong>Стоимость:</strong> 1 проверка пробуждения</p><p><strong>Длительность:</strong> Одна сцена</p><p>Вампир становится туманом: неуязвим к большинству атак и проникает в щели.</p>",
+    "level": 5,
+    "cost": 1,
+    "discipline": "protean",
+    "selected": false,
+    "dicepool": {}
+  },
+  "effects": [],
+  "folder": "pyCEcX7jAvOwCelN",
+  "sort": 506,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "power-mist-form"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

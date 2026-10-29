@@ -1,0 +1,45 @@
+{
+  "_id": "kXMsrG0OfJKSVYLf",
+  "_key": "!items!kXMsrG0OfJKSVYLf",
+  "name": "Пробудить гомункула (Awaken Homuncular Servant)",
+  "type": "power",
+  "img": "systems/wod5e/assets/icons/items/discipline.png",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Players Guide / Cults of the Blood Gods",
+      "page": ""
+    },
+    "description": "<p><strong>Дисциплина:</strong> Церемонии ••</p><p><strong>Стоимость:</strong> 1 проверка пробуждения</p><p><strong>Бросок:</strong> Решимость + Обливион</p><p><strong>Длительность:</strong> Одна ночь</p><p>Отрубленная часть тела (рука, голова) оживает и служит шпионом или посыльным.</p>",
+    "level": 2,
+    "cost": 1,
+    "discipline": "ceremonies",
+    "selected": false,
+    "dicepool": {
+      "JdEsF8zv": {
+        "path": "attributes.resolve"
+      },
+      "YyCFIwcw": {
+        "path": "disciplines.oblivion"
+      }
+    }
+  },
+  "effects": [],
+  "folder": "Gzm3hNZUrX4HvrsO",
+  "sort": 202,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "power-awaken-homuncular-servant"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

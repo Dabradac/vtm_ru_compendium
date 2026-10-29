@@ -1,0 +1,45 @@
+{
+  "_id": "U1h4SxcoR1fjUJuJ",
+  "_key": "!items!U1h4SxcoR1fjUJuJ",
+  "name": "Презреть погибель (Defy Bane)",
+  "type": "power",
+  "img": "systems/wod5e/assets/icons/items/discipline.png",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Дисциплина:</strong> Стойкость •••</p><p><strong>Стоимость:</strong> 1 проверка пробуждения</p><p><strong>Бросок:</strong> Смекалка + Выживание</p><p><strong>Длительность:</strong> Одна сцена</p><p>Огонь, солнце и другие погибели наносят поверхностные повреждения вместо тяжёлых — в пределах рейтинга Стойкости.</p>",
+    "level": 3,
+    "cost": 1,
+    "discipline": "fortitude",
+    "selected": false,
+    "dicepool": {
+      "gxicRkny": {
+        "path": "attributes.wits"
+      },
+      "dfmxpYF2": {
+        "path": "skills.survival"
+      }
+    }
+  },
+  "effects": [],
+  "folder": "4XRPzZJCYsp7CjdJ",
+  "sort": 304,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "power-defy-bane"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

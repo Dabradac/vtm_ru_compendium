@@ -1,0 +1,33 @@
+{
+  "_id": "pG0TF24kRZsnSjLN",
+  "_key": "!items!pG0TF24kRZsnSjLN",
+  "name": "Холерическая (Choleric)",
+  "type": "resonance",
+  "img": "icons/svg/blood.svg",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Усиливает дисциплины:</strong> Стремительность, Мощь</p><p>Гнев, агрессия, азарт, страсть к соперничеству. Источники: преступники, спортсмены, задиры.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "resonance-choleric"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "vtm-random-enemy",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node tools/build-packs.mjs"
+  },
+  "devDependencies": {
+    "@foundryvtt/foundryvtt-cli": "^3.0.0"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "_id": "VtdmuorTeMQy4VYI",
+  "_key": "!items!VtdmuorTeMQy4VYI",
+  "name": "Кровь животных (Animal Blood)",
+  "type": "resonance",
+  "img": "icons/svg/blood.svg",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Усиливает дисциплины:</strong> Анимализм, Метаморфозы</p><p>Кровь животных и «пустая» кровь без выраженных эмоций.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 4,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "resonance-animal-blood"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "_id": "XVuDrC32FxIW7CUF",
+  "_key": "!items!XVuDrC32FxIW7CUF",
+  "name": "Массовое внушение (Mass Manipulation)",
+  "type": "power",
+  "img": "systems/wod5e/assets/icons/items/discipline.png",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Дисциплина:</strong> Доминирование •••••</p><p><strong>Стоимость:</strong> 1 проверка пробуждения</p><p><strong>Длительность:</strong> Как у основной силы</p><p>Сила Доминирования действует на группу, если все её члены видят глаза вампира. Бросок против сильнейшего.</p>",
+    "level": 5,
+    "cost": 1,
+    "discipline": "dominate",
+    "selected": false,
+    "dicepool": {}
+  },
+  "effects": [],
+  "folder": "hhv308yIWwRRHPI3",
+  "sort": 507,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "power-mass-manipulation"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

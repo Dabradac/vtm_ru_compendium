@@ -1,0 +1,45 @@
+{
+  "_id": "AgSyzdosUdZd5sUW",
+  "_key": "!items!AgSyzdosUdZd5sUW",
+  "name": "Изгнать Зверя (Drawing Out the Beast)",
+  "type": "power",
+  "img": "systems/wod5e/assets/icons/items/discipline.png",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Дисциплина:</strong> Анимализм •••••</p><p><strong>Стоимость:</strong> 1 проверка пробуждения</p><p><strong>Бросок:</strong> Смекалка + Анимализм</p><p><strong>Сопротивление:</strong> Самообладание + Решимость</p><p><strong>Длительность:</strong> Одно бешенство</p><p>На грани бешенства вампир выталкивает своего Зверя в другое существо поблизости, и в бешенство впадает уже оно.</p>",
+    "level": 5,
+    "cost": 1,
+    "discipline": "animalism",
+    "selected": false,
+    "dicepool": {
+      "n2QFAmTu": {
+        "path": "attributes.wits"
+      },
+      "UyQIzsV7": {
+        "path": "disciplines.animalism"
+      }
+    }
+  },
+  "effects": [],
+  "folder": "5GOc3I8pslY8Tvfa",
+  "sort": 508,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "power-drawing-out-the-beast"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "_id": "mqFGHrSlzSVw53eP",
+  "_key": "!items!mqFGHrSlzSVw53eP",
+  "name": "Оберег от каинитов (Ward against Cainites)",
+  "type": "power",
+  "img": "systems/wod5e/assets/icons/items/discipline.png",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Дисциплина:</strong> Ритуалы •••••</p><p><strong>Стоимость:</strong> 1 проверка пробуждения</p><p><strong>Бросок:</strong> Интеллект + Кровавое чародейство</p><p><strong>Длительность:</strong> До срабатывания</p><p>Предмет ранит вампира, коснувшегося его.</p>",
+    "level": 5,
+    "cost": 1,
+    "discipline": "rituals",
+    "selected": false,
+    "dicepool": {
+      "rq8udxLT": {
+        "path": "attributes.intelligence"
+      },
+      "hphqZuWL": {
+        "path": "disciplines.sorcery"
+      }
+    }
+  },
+  "effects": [],
+  "folder": "rmad3vndr7tgbHJ6",
+  "sort": 524,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "power-ward-against-cainites"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

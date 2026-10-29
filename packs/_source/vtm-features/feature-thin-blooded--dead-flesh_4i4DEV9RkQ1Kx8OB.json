@@ -1,0 +1,40 @@
+{
+  "_id": "4i4DEV9RkQ1Kx8OB",
+  "_key": "!items!4i4DEV9RkQ1Kx8OB",
+  "name": "Слабокровный: Мёртвая плоть (Thin-Blooded: Dead Flesh)",
+  "type": "feature",
+  "img": "systems/wod5e/assets/icons/items/feature.svg",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Стоимость:</strong> •</p><p>Тело выглядит мёртвым и не лечится как у живого.</p>",
+    "points": 1,
+    "featuretype": "flaw",
+    "uses": {
+      "current": 0,
+      "max": 0,
+      "enabled": false
+    }
+  },
+  "effects": [],
+  "folder": "rNo7PZAkD7se9lor",
+  "sort": 23,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "feature-thin-blooded:-dead-flesh"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

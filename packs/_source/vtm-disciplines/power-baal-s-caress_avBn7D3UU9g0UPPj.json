@@ -1,0 +1,45 @@
+{
+  "_id": "avBn7D3UU9g0UPPj",
+  "_key": "!items!avBn7D3UU9g0UPPj",
+  "name": "Ласка Баала (Baal's Caress)",
+  "type": "power",
+  "img": "systems/wod5e/assets/icons/items/discipline.png",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Дисциплина:</strong> Кровавое чародейство •••••</p><p><strong>Стоимость:</strong> 1 проверка пробуждения</p><p><strong>Бросок:</strong> Сила + Кровавое чародейство</p><p><strong>Сопротивление:</strong> Выносливость + Оккультизм или Стойкость</p><p><strong>Длительность:</strong> Одна сцена</p><p>Кровь на клинке становится ядом, смертельным даже для сородичей.</p>",
+    "level": 5,
+    "cost": 1,
+    "discipline": "sorcery",
+    "selected": false,
+    "dicepool": {
+      "Xn5mfcNO": {
+        "path": "attributes.strength"
+      },
+      "boZ7l4KA": {
+        "path": "disciplines.sorcery"
+      }
+    }
+  },
+  "effects": [],
+  "folder": "d6XJcrzZTatC3oJq",
+  "sort": 506,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "power-baal's-caress"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

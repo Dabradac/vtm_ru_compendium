@@ -1,0 +1,49 @@
+{
+  "_id": "vSBakKolyU7dlfX8",
+  "_key": "!items!vSBakKolyU7dlfX8",
+  "name": "Меч (Sword)",
+  "type": "weapon",
+  "img": "icons/svg/sword.svg",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Модификатор урона:</strong> +3</p><p><strong>Бросок:</strong> Сила + Ближний бой</p><p>Тяжёлое рубящее. Тяжёлые повреждения смертным.</p>",
+    "weaponType": "melee",
+    "weaponvalue": 3,
+    "quantity": 1,
+    "uses": {
+      "current": 0,
+      "max": 0,
+      "enabled": false
+    },
+    "dicepool": {
+      "UycXuKYZ": {
+        "path": "attributes.strength"
+      },
+      "53ajBByC": {
+        "path": "skills.melee"
+      }
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 4,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "weapon-sword"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

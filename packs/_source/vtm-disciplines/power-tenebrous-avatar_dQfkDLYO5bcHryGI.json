@@ -1,0 +1,38 @@
+{
+  "_id": "dQfkDLYO5bcHryGI",
+  "_key": "!items!dQfkDLYO5bcHryGI",
+  "name": "Тенистый аватар (Tenebrous Avatar)",
+  "type": "power",
+  "img": "systems/wod5e/assets/icons/items/discipline.png",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Players Guide",
+      "page": ""
+    },
+    "description": "<p><strong>Дисциплина:</strong> Обливион •••••</p><p><strong>Стоимость:</strong> 2 проверки пробуждения</p><p><strong>Длительность:</strong> Одна сцена</p><p>Вампир становится двумерной тенью: неуязвим для большинства атак и скользит по поверхностям.</p>",
+    "level": 5,
+    "cost": 2,
+    "discipline": "oblivion",
+    "selected": false,
+    "dicepool": {}
+  },
+  "effects": [],
+  "folder": "N7H7uFo7zMEkfpob",
+  "sort": 513,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "power-tenebrous-avatar"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

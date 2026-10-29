@@ -1,0 +1,49 @@
+{
+  "_id": "ehAcWL16av6erpmp",
+  "_key": "!items!ehAcWL16av6erpmp",
+  "name": "Деревянный кол (Wooden Stake)",
+  "type": "weapon",
+  "img": "icons/svg/sword.svg",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Модификатор урона:</strong> +2</p><p><strong>Бросок:</strong> Ловкость + Ближний бой</p><p>Колющее. Удар в сердце (сложность 3+) обездвиживает вампира.</p>",
+    "weaponType": "melee",
+    "weaponvalue": 2,
+    "quantity": 1,
+    "uses": {
+      "current": 0,
+      "max": 0,
+      "enabled": false
+    },
+    "dicepool": {
+      "6E6osqWu": {
+        "path": "attributes.dexterity"
+      },
+      "T2LxvU0o": {
+        "path": "skills.melee"
+      }
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 3,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "weapon-wooden-stake"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

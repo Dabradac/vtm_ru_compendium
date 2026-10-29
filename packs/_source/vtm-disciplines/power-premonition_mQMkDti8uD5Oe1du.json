@@ -1,0 +1,45 @@
+{
+  "_id": "mQMkDti8uD5Oe1du",
+  "_key": "!items!mQMkDti8uD5Oe1du",
+  "name": "Предчувствие (Premonition)",
+  "type": "power",
+  "img": "systems/wod5e/assets/icons/items/discipline.png",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Дисциплина:</strong> Ясновидение ••</p><p><strong>Стоимость:</strong> Бесплатно</p><p><strong>Бросок:</strong> Решимость + Ясновидение</p><p><strong>Длительность:</strong> Пассивно или активно</p><p>Вампира посещают видения и предостережения. Можно сознательно искать ответ на вопрос (с проверкой пробуждения).</p>",
+    "level": 2,
+    "cost": 0,
+    "discipline": "auspex",
+    "selected": false,
+    "dicepool": {
+      "AqeBwepv": {
+        "path": "attributes.resolve"
+      },
+      "9d9m9N9Y": {
+        "path": "disciplines.auspex"
+      }
+    }
+  },
+  "effects": [],
+  "folder": "78xnQYQxRah30qgC",
+  "sort": 202,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "power-premonition"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

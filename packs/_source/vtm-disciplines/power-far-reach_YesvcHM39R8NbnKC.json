@@ -1,0 +1,45 @@
+{
+  "_id": "YesvcHM39R8NbnKC",
+  "_key": "!items!YesvcHM39R8NbnKC",
+  "name": "Дальняя хватка (Far Reach)",
+  "type": "power",
+  "img": "systems/wod5e/assets/icons/items/discipline.png",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Дисциплина:</strong> Алхимия слабокровных •</p><p><strong>Стоимость:</strong> 1 проверка пробуждения</p><p><strong>Бросок:</strong> Решимость + Алхимия слабокровных</p><p><strong>Сопротивление:</strong> Сила + Атлетика</p><p><strong>Длительность:</strong> Одна сцена</p><p>Телекинез: алхимик двигает предметы и людей в пределах видимости, может бросить или удерживать цель.</p>",
+    "level": 1,
+    "cost": 1,
+    "discipline": "alchemy",
+    "selected": false,
+    "dicepool": {
+      "3xLbBBgH": {
+        "path": "attributes.resolve"
+      },
+      "AwADhzyD": {
+        "path": "disciplines.alchemy"
+      }
+    }
+  },
+  "effects": [],
+  "folder": "F4BpBMLfHl6w6WGc",
+  "sort": 100,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "power-far-reach"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

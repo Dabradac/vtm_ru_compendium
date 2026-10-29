@@ -1,0 +1,45 @@
+{
+  "_id": "jzXmMaGyptcDpHBT",
+  "_key": "!items!jzXmMaGyptcDpHBT",
+  "name": "Незримый путь (Unseen Passage)",
+  "type": "power",
+  "img": "systems/wod5e/assets/icons/items/discipline.png",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Дисциплина:</strong> Сокрытие ••</p><p><strong>Стоимость:</strong> 1 проверка пробуждения</p><p><strong>Бросок:</strong> Смекалка + Сокрытие</p><p><strong>Сопротивление:</strong> Хитрость + Ясновидение</p><p><strong>Длительность:</strong> Одна сцена</p><p>Вампир остаётся незамеченным даже в движении. Резкие действия и атаки разрушают эффект.</p>",
+    "level": 2,
+    "cost": 1,
+    "discipline": "obfuscate",
+    "selected": false,
+    "dicepool": {
+      "iZgAEY3s": {
+        "path": "attributes.wits"
+      },
+      "PfNaRfRz": {
+        "path": "disciplines.obfuscate"
+      }
+    }
+  },
+  "effects": [],
+  "folder": "w1mF62eD3M3OdRDK",
+  "sort": 202,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "power-unseen-passage"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

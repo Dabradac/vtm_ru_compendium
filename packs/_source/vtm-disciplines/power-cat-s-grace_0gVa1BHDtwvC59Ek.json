@@ -1,0 +1,38 @@
+{
+  "_id": "0gVa1BHDtwvC59Ek",
+  "_key": "!items!0gVa1BHDtwvC59Ek",
+  "name": "Кошачья грация (Cat's Grace)",
+  "type": "power",
+  "img": "systems/wod5e/assets/icons/items/discipline.png",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Дисциплина:</strong> Стремительность •</p><p><strong>Стоимость:</strong> Бесплатно</p><p><strong>Длительность:</strong> Пассивно</p><p>Вампир автоматически проходит проверки равновесия: канаты, карнизы, узкие балки.</p>",
+    "level": 1,
+    "cost": 0,
+    "discipline": "celerity",
+    "selected": false,
+    "dicepool": {}
+  },
+  "effects": [],
+  "folder": "rAdaOaGWwVkUhfiQ",
+  "sort": 100,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "power-cat's-grace"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

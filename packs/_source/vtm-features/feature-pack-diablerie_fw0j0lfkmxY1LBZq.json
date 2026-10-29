@@ -1,0 +1,40 @@
+{
+  "_id": "fw0j0lfkmxY1LBZq",
+  "_key": "!items!fw0j0lfkmxY1LBZq",
+  "name": "Стайная диаблери (Pack Diablerie)",
+  "type": "feature",
+  "img": "systems/wod5e/assets/icons/items/feature.svg",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Стоимость:</strong> ••</p><p>При групповой диаблери вампир получает больше выгоды.</p>",
+    "points": 2,
+    "featuretype": "merit",
+    "uses": {
+      "current": 0,
+      "max": 0,
+      "enabled": false
+    }
+  },
+  "effects": [],
+  "folder": "yUzOZ9ZnB1E6K7cQ",
+  "sort": 9,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "feature-pack-diablerie"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

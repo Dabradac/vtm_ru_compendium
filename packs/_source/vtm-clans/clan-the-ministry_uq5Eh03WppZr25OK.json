@@ -1,0 +1,34 @@
+{
+  "_id": "uq5Eh03WppZr25OK",
+  "_key": "!items!uq5Eh03WppZr25OK",
+  "name": "Министерство (The Ministry)",
+  "type": "clan",
+  "img": "icons/svg/castle.svg",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Клановые дисциплины:</strong> Сокрытие, Величие, Метаморфозы</p><p><strong>Порок:</strong> Преступание: вампир должен склонить кого-то нарушить свои принципы; штраф −2 к прочим броскам.</p><p>Культисты-искусители, освобождающие других от оков морали.</p>",
+    "bane": "<p>Боязнь света: яркий свет вызывает штраф, равный тяжести изъяна; урон от солнца увеличивается.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 10,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "clan-the-ministry"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

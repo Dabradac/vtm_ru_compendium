@@ -1,0 +1,40 @@
+{
+  "_id": "22cmohz5j7w5KUoJ",
+  "_key": "!items!22cmohz5j7w5KUoJ",
+  "name": "Слабокровный: Дневной пьяница (Thin-Blooded: Day Drinker)",
+  "type": "feature",
+  "img": "systems/wod5e/assets/icons/items/feature.svg",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Стоимость:</strong> •</p><p>Солнце не сжигает слабокровного, а лишь ослабляет.</p>",
+    "points": 1,
+    "featuretype": "merit",
+    "uses": {
+      "current": 0,
+      "max": 0,
+      "enabled": false
+    }
+  },
+  "effects": [],
+  "folder": "yUzOZ9ZnB1E6K7cQ",
+  "sort": 11,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "feature-thin-blooded:-day-drinker"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

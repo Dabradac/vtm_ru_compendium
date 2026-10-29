@@ -1,0 +1,38 @@
+{
+  "_id": "oe3egI3iEKCO1YJy",
+  "_key": "!items!oe3egI3iEKCO1YJy",
+  "name": "Глоток изящества (Draught of Elegance)",
+  "type": "power",
+  "img": "systems/wod5e/assets/icons/items/discipline.png",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Дисциплина:</strong> Стремительность ••••</p><p><strong>Стоимость:</strong> 1 проверка пробуждения</p><p><strong>Длительность:</strong> Одна ночь</p><p>Кровь вампира даёт выпившему уровень 1 Стремительности на ночь.</p>",
+    "level": 4,
+    "cost": 1,
+    "discipline": "celerity",
+    "selected": false,
+    "dicepool": {}
+  },
+  "effects": [],
+  "folder": "rAdaOaGWwVkUhfiQ",
+  "sort": 405,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "power-draught-of-elegance"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

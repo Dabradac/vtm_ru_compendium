@@ -1,0 +1,49 @@
+{
+  "_id": "qIMSgYFZqsT3SEqh",
+  "_key": "!items!qIMSgYFZqsT3SEqh",
+  "name": "Тяжёлый пистолет (Heavy Pistol)",
+  "type": "weapon",
+  "img": "icons/svg/sword.svg",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Модификатор урона:</strong> +3</p><p><strong>Бросок:</strong> Ловкость + Стрельба</p><p>Револьвер или крупнокалиберный пистолет.</p>",
+    "weaponType": "ranged",
+    "weaponvalue": 3,
+    "quantity": 1,
+    "uses": {
+      "current": 0,
+      "max": 0,
+      "enabled": false
+    },
+    "dicepool": {
+      "eRhsa50C": {
+        "path": "attributes.dexterity"
+      },
+      "DEh73Bmv": {
+        "path": "skills.firearms"
+      }
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 7,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "weapon-heavy-pistol"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

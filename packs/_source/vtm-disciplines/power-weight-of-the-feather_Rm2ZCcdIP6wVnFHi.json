@@ -1,0 +1,45 @@
+{
+  "_id": "Rm2ZCcdIP6wVnFHi",
+  "_key": "!items!Rm2ZCcdIP6wVnFHi",
+  "name": "Лёгкость пера (Weight of the Feather)",
+  "type": "power",
+  "img": "systems/wod5e/assets/icons/items/discipline.png",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Дисциплина:</strong> Метаморфозы •</p><p><strong>Стоимость:</strong> Бесплатно</p><p><strong>Бросок:</strong> Смекалка + Выживание</p><p><strong>Длительность:</strong> По желанию</p><p>Вампир становится почти невесомым: не получает урона от падений и не оставляет следов.</p>",
+    "level": 1,
+    "cost": 0,
+    "discipline": "protean",
+    "selected": false,
+    "dicepool": {
+      "z0W9HK9j": {
+        "path": "attributes.wits"
+      },
+      "syR78KQy": {
+        "path": "skills.survival"
+      }
+    }
+  },
+  "effects": [],
+  "folder": "pyCEcX7jAvOwCelN",
+  "sort": 101,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "power-weight-of-the-feather"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "_id": "XZi1IW3ep3K7qjfm",
+  "_key": "!items!XZi1IW3ep3K7qjfm",
+  "name": "Кастет (Brass Knuckles)",
+  "type": "weapon",
+  "img": "icons/svg/sword.svg",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Модификатор урона:</strong> +1</p><p><strong>Бросок:</strong> Сила + Драка</p><p>Лёгкое ударное. Поверхностные повреждения.</p>",
+    "weaponType": "melee",
+    "weaponvalue": 1,
+    "quantity": 1,
+    "uses": {
+      "current": 0,
+      "max": 0,
+      "enabled": false
+    },
+    "dicepool": {
+      "MhMtbFlz": {
+        "path": "attributes.strength"
+      },
+      "kSTwD6CD": {
+        "path": "skills.brawl"
+      }
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "weapon-brass-knuckles"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

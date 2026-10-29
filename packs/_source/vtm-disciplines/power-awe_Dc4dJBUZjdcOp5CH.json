@@ -1,0 +1,45 @@
+{
+  "_id": "Dc4dJBUZjdcOp5CH",
+  "_key": "!items!Dc4dJBUZjdcOp5CH",
+  "name": "Благоговение (Awe)",
+  "type": "power",
+  "img": "systems/wod5e/assets/icons/items/discipline.png",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Дисциплина:</strong> Величие •</p><p><strong>Стоимость:</strong> Бесплатно</p><p><strong>Бросок:</strong> Манипулирование + Величие</p><p><strong>Длительность:</strong> Одна сцена</p><p>Окружающие тянутся к вампиру; рейтинг Величия добавляется к броскам Убеждения, Выступления и Харизмы.</p>",
+    "level": 1,
+    "cost": 0,
+    "discipline": "presence",
+    "selected": false,
+    "dicepool": {
+      "yQkMGtCz": {
+        "path": "attributes.manipulation"
+      },
+      "ZbcbJZds": {
+        "path": "disciplines.presence"
+      }
+    }
+  },
+  "effects": [],
+  "folder": "r9Ufy21BQzVnYCIq",
+  "sort": 100,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "power-awe"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

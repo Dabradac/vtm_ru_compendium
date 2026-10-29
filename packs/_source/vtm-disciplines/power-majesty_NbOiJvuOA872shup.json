@@ -1,0 +1,45 @@
+{
+  "_id": "NbOiJvuOA872shup",
+  "_key": "!items!NbOiJvuOA872shup",
+  "name": "Величественность (Majesty)",
+  "type": "power",
+  "img": "systems/wod5e/assets/icons/items/discipline.png",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Дисциплина:</strong> Величие •••••</p><p><strong>Стоимость:</strong> 2 проверки пробуждения</p><p><strong>Бросок:</strong> Харизма + Величие</p><p><strong>Сопротивление:</strong> Самообладание + Решимость</p><p><strong>Длительность:</strong> Одна сцена</p><p>Никто не может поднять руку на вампира или пойти против его воли, если не выиграет противостояние.</p>",
+    "level": 5,
+    "cost": 2,
+    "discipline": "presence",
+    "selected": false,
+    "dicepool": {
+      "7H07kdlq": {
+        "path": "attributes.charisma"
+      },
+      "hvmmuawh": {
+        "path": "disciplines.presence"
+      }
+    }
+  },
+  "effects": [],
+  "folder": "r9Ufy21BQzVnYCIq",
+  "sort": 507,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "power-majesty"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

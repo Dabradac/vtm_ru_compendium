@@ -1,0 +1,34 @@
+{
+  "_id": "8P830JfObUeo0V6Z",
+  "_key": "!items!8P830JfObUeo0V6Z",
+  "name": "Цимисхи (Tzimisce)",
+  "type": "clan",
+  "img": "icons/svg/castle.svg",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Клановые дисциплины:</strong> Анимализм, Доминирование, Метаморфозы</p><p><strong>Порок:</strong> Алчность: вампир должен завладеть чем-то желанным; штраф −2 к прочим броскам.</p><p>Владыки плоти и собственности, привязанные к своим владениям.</p>",
+    "bane": "<p>Привязанность: вампир должен спать среди своей «земли» (место, люди, предмет), иначе утром получает урон Силе воли по тяжести изъяна.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 13,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "clan-tzimisce"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

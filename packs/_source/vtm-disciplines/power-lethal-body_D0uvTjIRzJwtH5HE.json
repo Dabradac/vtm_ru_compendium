@@ -1,0 +1,38 @@
+{
+  "_id": "D0uvTjIRzJwtH5HE",
+  "_key": "!items!D0uvTjIRzJwtH5HE",
+  "name": "Смертоносное тело (Lethal Body)",
+  "type": "power",
+  "img": "systems/wod5e/assets/icons/items/discipline.png",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Дисциплина:</strong> Мощь •</p><p><strong>Стоимость:</strong> Бесплатно</p><p><strong>Длительность:</strong> Пассивно</p><p>Удары без оружия наносят смертным тяжёлые повреждения и игнорируют рейтинг брони, равный рейтингу Мощи.</p>",
+    "level": 1,
+    "cost": 0,
+    "discipline": "potence",
+    "selected": false,
+    "dicepool": {}
+  },
+  "effects": [],
+  "folder": "K5eVbbyFUEmsNJGC",
+  "sort": 100,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "power-lethal-body"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

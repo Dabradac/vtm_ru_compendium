@@ -1,0 +1,45 @@
+{
+  "_id": "BuPn3wCRxwfqXbqs",
+  "_key": "!items!BuPn3wCRxwfqXbqs",
+  "name": "Стойкие звери (Enduring Beasts)",
+  "type": "power",
+  "img": "systems/wod5e/assets/icons/items/discipline.png",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Дисциплина:</strong> Стойкость ••</p><p><strong>Амальгама:</strong> Анимализм 1</p><p><strong>Стоимость:</strong> 1 проверка пробуждения</p><p><strong>Бросок:</strong> Выносливость + Анимализм</p><p><strong>Длительность:</strong> Одна сцена</p><p>Вампир делится стойкостью со своими животными.</p>",
+    "level": 2,
+    "cost": 1,
+    "discipline": "fortitude",
+    "selected": false,
+    "dicepool": {
+      "ij7IyLNw": {
+        "path": "attributes.stamina"
+      },
+      "RSh0ULMW": {
+        "path": "disciplines.animalism"
+      }
+    }
+  },
+  "effects": [],
+  "folder": "4XRPzZJCYsp7CjdJ",
+  "sort": 203,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "power-enduring-beasts"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

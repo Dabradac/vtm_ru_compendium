@@ -1,0 +1,38 @@
+{
+  "_id": "mXv1nHb6fsGztREd",
+  "_key": "!items!mXv1nHb6fsGztREd",
+  "name": "Неотразимый голос (Irresistible Voice)",
+  "type": "power",
+  "img": "systems/wod5e/assets/icons/items/discipline.png",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Дисциплина:</strong> Величие ••••</p><p><strong>Амальгама:</strong> Доминирование 1</p><p><strong>Стоимость:</strong> Бесплатно</p><p><strong>Длительность:</strong> Пассивно</p><p>Доминирование действует голосом, без зрительного контакта (кроме массовых эффектов).</p>",
+    "level": 4,
+    "cost": 0,
+    "discipline": "presence",
+    "selected": false,
+    "dicepool": {}
+  },
+  "effects": [],
+  "folder": "r9Ufy21BQzVnYCIq",
+  "sort": 405,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "power-irresistible-voice"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

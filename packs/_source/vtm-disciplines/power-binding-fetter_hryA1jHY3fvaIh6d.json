@@ -1,0 +1,45 @@
+{
+  "_id": "hryA1jHY3fvaIh6d",
+  "_key": "!items!hryA1jHY3fvaIh6d",
+  "name": "Связующие узы (Binding Fetter)",
+  "type": "power",
+  "img": "systems/wod5e/assets/icons/items/discipline.png",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Players Guide",
+      "page": ""
+    },
+    "description": "<p><strong>Дисциплина:</strong> Обливион •</p><p><strong>Стоимость:</strong> 1 проверка пробуждения</p><p><strong>Бросок:</strong> Смекалка + Обливион</p><p><strong>Длительность:</strong> Одна сцена</p><p>Вампир чувствует оковы — предметы, привязывающие призраков к миру живых.</p>",
+    "level": 1,
+    "cost": 1,
+    "discipline": "oblivion",
+    "selected": false,
+    "dicepool": {
+      "oxPNcm2X": {
+        "path": "attributes.wits"
+      },
+      "y37AB324": {
+        "path": "disciplines.oblivion"
+      }
+    }
+  },
+  "effects": [],
+  "folder": "N7H7uFo7zMEkfpob",
+  "sort": 103,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "power-binding-fetter"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

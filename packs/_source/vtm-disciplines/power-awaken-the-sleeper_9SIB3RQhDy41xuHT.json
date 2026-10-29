@@ -1,0 +1,38 @@
+{
+  "_id": "9SIB3RQhDy41xuHT",
+  "_key": "!items!9SIB3RQhDy41xuHT",
+  "name": "Пробудить спящего (Awaken the Sleeper)",
+  "type": "power",
+  "img": "systems/wod5e/assets/icons/items/discipline.png",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Дисциплина:</strong> Алхимия слабокровных •••••</p><p><strong>Стоимость:</strong> 1 проверка пробуждения</p><p><strong>Длительность:</strong> Мгновенно</p><p>Будит вампира из торпора или дневного сна.</p>",
+    "level": 5,
+    "cost": 1,
+    "discipline": "alchemy",
+    "selected": false,
+    "dicepool": {}
+  },
+  "effects": [],
+  "folder": "F4BpBMLfHl6w6WGc",
+  "sort": 508,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "power-awaken-the-sleeper"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

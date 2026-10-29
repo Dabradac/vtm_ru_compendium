@@ -1,0 +1,41 @@
+{
+  "_id": "JaT0i6hqDp8h9T8e",
+  "_key": "!items!JaT0i6hqDp8h9T8e",
+  "name": "Мешочник (Bagger)",
+  "type": "predatorType",
+  "img": "icons/svg/pawprint.svg",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Бросок охоты:</strong> Интеллект + Знание улиц</p><p><strong>Даёт:</strong> Специализация: Воровство (Взлом замков) или Знание улиц (Чёрный рынок). Дисциплина: Кровавое чародейство (Тремер, Бану Хаким), Обливион (Геката) или Сокрытие. Достоинство «Железный желудок» (3). Недостаток «Враг» (2).</p><p>Добывает пакеты с кровью: больницы, банки крови, чёрный рынок.</p>",
+    "dicepool": {
+      "5s2ES7wP": {
+        "path": "attributes.intelligence"
+      },
+      "3dJMOpof": {
+        "path": "skills.streetwise"
+      }
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 1,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "predatorType-bagger"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "_id": "b2pYoz0Vz4VrTFtF",
+  "_key": "!items!b2pYoz0Vz4VrTFtF",
+  "name": "Нечестивый иерогамос (Profane Hieros Gamos)",
+  "type": "power",
+  "img": "systems/wod5e/assets/icons/items/discipline.png",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Дисциплина:</strong> Алхимия слабокровных •••</p><p><strong>Стоимость:</strong> 1 проверка пробуждения</p><p><strong>Длительность:</strong> Постоянно</p><p>Тело алхимика меняется: пол, внешность и черты переходят в идеальный для него облик.</p>",
+    "level": 3,
+    "cost": 1,
+    "discipline": "alchemy",
+    "selected": false,
+    "dicepool": {}
+  },
+  "effects": [],
+  "folder": "F4BpBMLfHl6w6WGc",
+  "sort": 306,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "power-profane-hieros-gamos"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

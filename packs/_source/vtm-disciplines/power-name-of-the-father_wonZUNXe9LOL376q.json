@@ -1,0 +1,45 @@
+{
+  "_id": "wonZUNXe9LOL376q",
+  "_key": "!items!wonZUNXe9LOL376q",
+  "name": "Имя отца (Name of the Father)",
+  "type": "power",
+  "img": "systems/wod5e/assets/icons/items/discipline.png",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Players Guide / Cults of the Blood Gods",
+      "page": ""
+    },
+    "description": "<p><strong>Дисциплина:</strong> Церемонии •••••</p><p><strong>Стоимость:</strong> 1 проверка пробуждения</p><p><strong>Бросок:</strong> Решимость + Обливион</p><p><strong>Длительность:</strong> Мгновенно</p><p>Некромант изгоняет призрака или срывает с него власть других сил.</p>",
+    "level": 5,
+    "cost": 1,
+    "discipline": "ceremonies",
+    "selected": false,
+    "dicepool": {
+      "30CpbT5F": {
+        "path": "attributes.resolve"
+      },
+      "SRysfcfX": {
+        "path": "disciplines.oblivion"
+      }
+    }
+  },
+  "effects": [],
+  "folder": "Gzm3hNZUrX4HvrsO",
+  "sort": 509,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "power-name-of-the-father"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "_id": "RDMXe1XXBMEGIvu8",
+  "_key": "!items!RDMXe1XXBMEGIvu8",
+  "name": "Затяжной поцелуй (Lingering Kiss)",
+  "type": "power",
+  "img": "systems/wod5e/assets/icons/items/discipline.png",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Дисциплина:</strong> Величие ••</p><p><strong>Стоимость:</strong> Бесплатно</p><p><strong>Длительность:</strong> Пассивно</p><p>Смертные, от которых питался вампир, жаждут повторения и становятся ему преданы.</p>",
+    "level": 2,
+    "cost": 0,
+    "discipline": "presence",
+    "selected": false,
+    "dicepool": {}
+  },
+  "effects": [],
+  "folder": "r9Ufy21BQzVnYCIq",
+  "sort": 202,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "power-lingering-kiss"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "_id": "aPY9GdDhfWrPNOEN",
+  "_key": "!items!aPY9GdDhfWrPNOEN",
+  "name": "Песочный человек (Sandman)",
+  "type": "predatorType",
+  "img": "icons/svg/pawprint.svg",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Бросок охоты:</strong> Ловкость + Скрытность</p><p><strong>Даёт:</strong> Специализация: Медицина (Анестезия) или Скрытность (Взлом). Дисциплина: Ясновидение или Сокрытие. Ресурсы 1.</p><p>Питается спящими, проникая в дома.</p>",
+    "dicepool": {
+      "eqII4h4T": {
+        "path": "attributes.dexterity"
+      },
+      "R1dsMwcA": {
+        "path": "skills.stealth"
+      }
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 7,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "predatorType-sandman"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

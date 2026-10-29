@@ -1,0 +1,38 @@
+{
+  "_id": "4MgfrOYIO5IuAPDd",
+  "_key": "!items!4MgfrOYIO5IuAPDd",
+  "name": "Слияние с землёй (Earth Meld)",
+  "type": "power",
+  "img": "systems/wod5e/assets/icons/items/discipline.png",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Дисциплина:</strong> Метаморфозы •••</p><p><strong>Стоимость:</strong> 1 проверка пробуждения</p><p><strong>Длительность:</strong> Один день или дольше</p><p>Вампир погружается в естественную почву и отдыхает там в безопасности от солнца.</p>",
+    "level": 3,
+    "cost": 1,
+    "discipline": "protean",
+    "selected": false,
+    "dicepool": {}
+  },
+  "effects": [],
+  "folder": "pyCEcX7jAvOwCelN",
+  "sort": 303,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "power-earth-meld"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

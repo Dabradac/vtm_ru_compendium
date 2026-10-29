@@ -1,0 +1,45 @@
+{
+  "_id": "CwpkkqN7YhxJ3ORG",
+  "_key": "!items!CwpkkqN7YhxJ3ORG",
+  "name": "Мощная кровь (Blood of Potency)",
+  "type": "power",
+  "img": "systems/wod5e/assets/icons/items/discipline.png",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Дисциплина:</strong> Кровавое чародейство •••</p><p><strong>Стоимость:</strong> 1 проверка пробуждения</p><p><strong>Бросок:</strong> Решимость + Кровавое чародейство</p><p><strong>Длительность:</strong> Одна ночь</p><p>Мощь крови вампира временно возрастает.</p>",
+    "level": 3,
+    "cost": 1,
+    "discipline": "sorcery",
+    "selected": false,
+    "dicepool": {
+      "qczB2bDZ": {
+        "path": "attributes.resolve"
+      },
+      "P5IIBb6n": {
+        "path": "disciplines.sorcery"
+      }
+    }
+  },
+  "effects": [],
+  "folder": "d6XJcrzZTatC3oJq",
+  "sort": 303,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "power-blood-of-potency"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "_id": "N24nQafUqmuHezcZ",
+  "_key": "!items!N24nQafUqmuHezcZ",
+  "name": "Аура тления (Aura of Decay)",
+  "type": "power",
+  "img": "systems/wod5e/assets/icons/items/discipline.png",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Players Guide",
+      "page": ""
+    },
+    "description": "<p><strong>Дисциплина:</strong> Обливион •••</p><p><strong>Стоимость:</strong> 1 проверка пробуждения</p><p><strong>Бросок:</strong> Выносливость + Обливион</p><p><strong>Сопротивление:</strong> Выносливость + Медицина</p><p><strong>Длительность:</strong> Одна сцена</p><p>Растения вянут, пища гниёт, а смертные вокруг вампира заболевают.</p>",
+    "level": 3,
+    "cost": 1,
+    "discipline": "oblivion",
+    "selected": false,
+    "dicepool": {
+      "OAe3h2Fr": {
+        "path": "attributes.stamina"
+      },
+      "RAxSzhfp": {
+        "path": "disciplines.oblivion"
+      }
+    }
+  },
+  "effects": [],
+  "folder": "N7H7uFo7zMEkfpob",
+  "sort": 307,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "power-aura-of-decay"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

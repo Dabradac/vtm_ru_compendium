@@ -1,0 +1,109 @@
+{
+  "id": "vtm5-compendium",
+  "title": "VTM V5 Компендиум",
+  "description": "Компендиумы Vampire: The Masquerade 5th Edition для системы WoD5e на русском: дисциплины, ритуалы и церемонии, кланы, стили охоты, резонансы, предыстории, достоинства и недостатки, оружие",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "14"
+  },
+  "authors": [
+    {
+      "name": "dabra"
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "wod5e",
+        "type": "system",
+        "compatibility": {
+          "minimum": "5.0.0"
+        }
+      }
+    ]
+  },
+  "packs": [
+    {
+      "name": "vtm-disciplines",
+      "label": "V5: Дисциплины",
+      "type": "Item",
+      "system": "wod5e",
+      "path": "packs/vtm-disciplines",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "vtm-clans",
+      "label": "V5: Кланы",
+      "type": "Item",
+      "system": "wod5e",
+      "path": "packs/vtm-clans",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "vtm-predator-types",
+      "label": "V5: Стили охоты",
+      "type": "Item",
+      "system": "wod5e",
+      "path": "packs/vtm-predator-types",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "vtm-resonances",
+      "label": "V5: Резонансы",
+      "type": "Item",
+      "system": "wod5e",
+      "path": "packs/vtm-resonances",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "vtm-features",
+      "label": "V5: Предыстории, Достоинства и Недостатки",
+      "type": "Item",
+      "system": "wod5e",
+      "path": "packs/vtm-features",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "vtm-weapons",
+      "label": "V5: Оружие",
+      "type": "Item",
+      "system": "wod5e",
+      "path": "packs/vtm-weapons",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "Vampire: The Masquerade V5",
+      "sorting": "m",
+      "color": "#8b1a1a",
+      "packs": [
+        "vtm-disciplines",
+        "vtm-clans",
+        "vtm-predator-types",
+        "vtm-resonances",
+        "vtm-features",
+        "vtm-weapons"
+      ]
+    }
+  ]
+}

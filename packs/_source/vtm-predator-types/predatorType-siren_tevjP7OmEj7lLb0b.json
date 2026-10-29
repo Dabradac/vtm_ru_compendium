@@ -1,0 +1,41 @@
+{
+  "_id": "tevjP7OmEj7lLb0b",
+  "_key": "!items!tevjP7OmEj7lLb0b",
+  "name": "Сирена (Siren)",
+  "type": "predatorType",
+  "img": "icons/svg/pawprint.svg",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Бросок охоты:</strong> Харизма + Хитрость</p><p><strong>Даёт:</strong> Специализация: Убеждение (Соблазнение) или Хитрость (Соблазнение). Дисциплина: Стойкость или Величие. Достоинство «Красота» (2). Недостаток «Враг» (1) — ревнивый любовник.</p><p>Соблазняет жертв и питается во время интимной близости.</p>",
+    "dicepool": {
+      "Mlraqvid": {
+        "path": "attributes.charisma"
+      },
+      "l96yuOER": {
+        "path": "skills.subterfuge"
+      }
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 9,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "predatorType-siren"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

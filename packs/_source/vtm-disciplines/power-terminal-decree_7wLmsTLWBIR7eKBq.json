@@ -1,0 +1,38 @@
+{
+  "_id": "7wLmsTLWBIR7eKBq",
+  "_key": "!items!7wLmsTLWBIR7eKBq",
+  "name": "Последний приказ (Terminal Decree)",
+  "type": "power",
+  "img": "systems/wod5e/assets/icons/items/discipline.png",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Дисциплина:</strong> Доминирование •••••</p><p><strong>Стоимость:</strong> Бесплатно</p><p><strong>Длительность:</strong> Пассивно</p><p>Приказы Доминирования могут заставить цель причинить себе вред или погибнуть.</p>",
+    "level": 5,
+    "cost": 0,
+    "discipline": "dominate",
+    "selected": false,
+    "dicepool": {}
+  },
+  "effects": [],
+  "folder": "hhv308yIWwRRHPI3",
+  "sort": 508,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "power-terminal-decree"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

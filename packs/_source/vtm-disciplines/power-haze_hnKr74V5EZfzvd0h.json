@@ -1,0 +1,45 @@
+{
+  "_id": "hnKr74V5EZfzvd0h",
+  "_key": "!items!hnKr74V5EZfzvd0h",
+  "name": "Дымка (Haze)",
+  "type": "power",
+  "img": "systems/wod5e/assets/icons/items/discipline.png",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Дисциплина:</strong> Алхимия слабокровных •</p><p><strong>Стоимость:</strong> 1 проверка пробуждения</p><p><strong>Бросок:</strong> Смекалка + Алхимия слабокровных</p><p><strong>Длительность:</strong> Одна сцена</p><p>Вокруг алхимика клубится туман, укрывающий его и спутников и затрудняющий стрельбу по ним.</p>",
+    "level": 1,
+    "cost": 1,
+    "discipline": "alchemy",
+    "selected": false,
+    "dicepool": {
+      "GgXvwrBx": {
+        "path": "attributes.wits"
+      },
+      "ROwjbWJ1": {
+        "path": "disciplines.alchemy"
+      }
+    }
+  },
+  "effects": [],
+  "folder": "F4BpBMLfHl6w6WGc",
+  "sort": 101,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "power-haze"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

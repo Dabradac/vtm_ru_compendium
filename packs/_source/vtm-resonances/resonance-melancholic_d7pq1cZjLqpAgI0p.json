@@ -1,0 +1,33 @@
+{
+  "_id": "d7pq1cZjLqpAgI0p",
+  "_key": "!items!d7pq1cZjLqpAgI0p",
+  "name": "Меланхолическая (Melancholic)",
+  "type": "resonance",
+  "img": "icons/svg/blood.svg",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Усиливает дисциплины:</strong> Стойкость, Сокрытие</p><p>Печаль, тоска, депрессия, интеллектуальная сосредоточенность. Источники: скорбящие, одинокие, учёные.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 1,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "resonance-melancholic"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

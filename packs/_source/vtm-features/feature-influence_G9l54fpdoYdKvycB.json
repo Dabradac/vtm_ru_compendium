@@ -1,0 +1,40 @@
+{
+  "_id": "G9l54fpdoYdKvycB",
+  "_key": "!items!G9l54fpdoYdKvycB",
+  "name": "Влияние (Influence)",
+  "type": "feature",
+  "img": "systems/wod5e/assets/icons/items/feature.svg",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Стоимость:</strong> •–•••••</p><p>Политическое влияние в смертном обществе: в районе, организации или городе.</p>",
+    "points": 1,
+    "featuretype": "background",
+    "uses": {
+      "current": 0,
+      "max": 0,
+      "enabled": false
+    }
+  },
+  "effects": [],
+  "folder": "l4pSrpgyltjSodt3",
+  "sort": 5,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "feature-influence"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

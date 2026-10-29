@@ -1,0 +1,38 @@
+{
+  "_id": "8Hry3sfbeZDDh6gS",
+  "_key": "!items!8Hry3sfbeZDDh6gS",
+  "name": "Быстрые рефлексы (Rapid Reflexes)",
+  "type": "power",
+  "img": "systems/wod5e/assets/icons/items/discipline.png",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Дисциплина:</strong> Стремительность •</p><p><strong>Стоимость:</strong> Бесплатно</p><p><strong>Длительность:</strong> Пассивно</p><p>Нет штрафа за отсутствие укрытия против стрельбы; можно сделать одно малое действие без штрафа.</p>",
+    "level": 1,
+    "cost": 0,
+    "discipline": "celerity",
+    "selected": false,
+    "dicepool": {}
+  },
+  "effects": [],
+  "folder": "rAdaOaGWwVkUhfiQ",
+  "sort": 101,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "power-rapid-reflexes"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

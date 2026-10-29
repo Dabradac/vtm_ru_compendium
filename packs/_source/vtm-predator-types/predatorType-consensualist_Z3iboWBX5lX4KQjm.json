@@ -1,0 +1,41 @@
+{
+  "_id": "Z3iboWBX5lX4KQjm",
+  "_key": "!items!Z3iboWBX5lX4KQjm",
+  "name": "Добровольник (Consensualist)",
+  "type": "predatorType",
+  "img": "icons/svg/pawprint.svg",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Бросок охоты:</strong> Манипулирование + Убеждение</p><p><strong>Даёт:</strong> Специализация: Медицина (Флеботомия) или Убеждение (Жертвы). Дисциплина: Ясновидение или Стойкость. +1 Человечность. Недостатки «Тёмная тайна: нарушитель Маскарада» (1) и «Исключение добычи: несогласные» (1).</p><p>Пьёт только с согласия жертвы, выдавая себя за кого-то иного.</p>",
+    "dicepool": {
+      "vKb1jGwE": {
+        "path": "attributes.manipulation"
+      },
+      "4cse8hEs": {
+        "path": "skills.persuasion"
+      }
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 4,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "predatorType-consensualist"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

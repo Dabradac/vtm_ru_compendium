@@ -1,0 +1,45 @@
+{
+  "_id": "BzZlVIp51Wu1rXGg",
+  "_key": "!items!BzZlVIp51Wu1rXGg",
+  "name": "Касание духа (Spirit's Touch)",
+  "type": "power",
+  "img": "systems/wod5e/assets/icons/items/discipline.png",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Дисциплина:</strong> Ясновидение ••••</p><p><strong>Стоимость:</strong> 1 проверка пробуждения</p><p><strong>Бросок:</strong> Интеллект + Ясновидение</p><p><strong>Длительность:</strong> Один ход</p><p>Прикоснувшись к предмету или месту, вампир считывает эмоциональные отпечатки тех, кто им владел или был там.</p>",
+    "level": 4,
+    "cost": 1,
+    "discipline": "auspex",
+    "selected": false,
+    "dicepool": {
+      "aATIJXUF": {
+        "path": "attributes.intelligence"
+      },
+      "edq4Lxnf": {
+        "path": "disciplines.auspex"
+      }
+    }
+  },
+  "effects": [],
+  "folder": "78xnQYQxRah30qgC",
+  "sort": 405,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "power-spirit's-touch"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

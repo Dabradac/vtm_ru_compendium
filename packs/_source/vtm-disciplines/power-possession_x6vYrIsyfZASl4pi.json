@@ -1,0 +1,45 @@
+{
+  "_id": "x6vYrIsyfZASl4pi",
+  "_key": "!items!x6vYrIsyfZASl4pi",
+  "name": "Одержимость (Possession)",
+  "type": "power",
+  "img": "systems/wod5e/assets/icons/items/discipline.png",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Дисциплина:</strong> Ясновидение •••••</p><p><strong>Амальгама:</strong> Доминирование 3</p><p><strong>Стоимость:</strong> 2 проверки пробуждения</p><p><strong>Бросок:</strong> Решимость + Ясновидение</p><p><strong>Сопротивление:</strong> Решимость + Интеллект</p><p><strong>Длительность:</strong> Пока вампир удерживает контроль</p><p>Вампир вселяется в тело смертного, глядя ему в глаза. Собственное тело остаётся беззащитным.</p>",
+    "level": 5,
+    "cost": 2,
+    "discipline": "auspex",
+    "selected": false,
+    "dicepool": {
+      "pk9Umo5X": {
+        "path": "attributes.resolve"
+      },
+      "gXbXsODS": {
+        "path": "disciplines.auspex"
+      }
+    }
+  },
+  "effects": [],
+  "folder": "78xnQYQxRah30qgC",
+  "sort": 507,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "power-possession"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "_id": "TwWofhjWlZbKeKGC",
+  "_key": "!items!TwWofhjWlZbKeKGC",
+  "name": "Облик самозванца (Impostor's Guise)",
+  "type": "power",
+  "img": "systems/wod5e/assets/icons/items/discipline.png",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Дисциплина:</strong> Сокрытие •••••</p><p><strong>Стоимость:</strong> 1 проверка пробуждения</p><p><strong>Бросок:</strong> Смекалка + Сокрытие</p><p><strong>Длительность:</strong> Одна сцена</p><p>Вампир принимает облик конкретного человека, которого изучил, — включая голос и манеры.</p>",
+    "level": 5,
+    "cost": 1,
+    "discipline": "obfuscate",
+    "selected": false,
+    "dicepool": {
+      "E50c1EsD": {
+        "path": "attributes.wits"
+      },
+      "YQYMByvi": {
+        "path": "disciplines.obfuscate"
+      }
+    }
+  },
+  "effects": [],
+  "folder": "w1mF62eD3M3OdRDK",
+  "sort": 508,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "power-impostor's-guise"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}

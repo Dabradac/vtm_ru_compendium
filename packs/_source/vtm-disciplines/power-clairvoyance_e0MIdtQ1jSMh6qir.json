@@ -1,0 +1,45 @@
+{
+  "_id": "e0MIdtQ1jSMh6qir",
+  "_key": "!items!e0MIdtQ1jSMh6qir",
+  "name": "Ясновидение на расстоянии (Clairvoyance)",
+  "type": "power",
+  "img": "systems/wod5e/assets/icons/items/discipline.png",
+  "system": {
+    "macroid": "",
+    "bonuses": [],
+    "dataItemId": "",
+    "source": {
+      "book": "Vampire: The Masquerade 5th Edition",
+      "page": ""
+    },
+    "description": "<p><strong>Дисциплина:</strong> Ясновидение •••••</p><p><strong>Стоимость:</strong> 1 проверка пробуждения</p><p><strong>Бросок:</strong> Интеллект + Ясновидение</p><p><strong>Длительность:</strong> Несколько минут</p><p>Вампир собирает сведения обо всём, что происходит в знакомой ему местности (район, здание).</p>",
+    "level": 5,
+    "cost": 1,
+    "discipline": "auspex",
+    "selected": false,
+    "dicepool": {
+      "NVQ1cRKs": {
+        "path": "attributes.intelligence"
+      },
+      "qLDOfYfF": {
+        "path": "disciplines.auspex"
+      }
+    }
+  },
+  "effects": [],
+  "folder": "78xnQYQxRah30qgC",
+  "sort": 506,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "wod5e": {
+      "dataItemId": "power-clairvoyance"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "wod5e",
+    "systemVersion": "5.3.28"
+  }
+}
